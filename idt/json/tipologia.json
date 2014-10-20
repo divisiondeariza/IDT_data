@@ -4,7 +4,7 @@
             "CODIGO": "1",
             "COD_CLASIFICACION": "1",
             "NOMBRE": "\u00bfPor qu\u00e9 Bogot\u00e1?",
-            "ICONO": "\/home\/imagenesBD\/Tipologia1\/iconoTipologia1.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png",
             "IMAGEN": "\/home\/imagenesBD\/Tipologia1\/imgTipologia1.png",
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#cca102"
@@ -13,7 +13,7 @@
             "CODIGO": "2",
             "COD_CLASIFICACION": "1",
             "NOMBRE": "Primera Visita",
-            "ICONO": null,
+            "ICONO": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png",
             "IMAGEN": null,
             "TIENE_SUBTIPOLOGIA": "0",
             "backgroundColor": "#cca102"
@@ -22,7 +22,7 @@
             "CODIGO": "3",
             "COD_CLASIFICACION": "1",
             "NOMBRE": "Atracciones Gratuitas",
-            "ICONO": "\/home\/imagenesBD\/Tipologia3\/iconoTipologia3.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png",
             "IMAGEN": "\/home\/imagenesBD\/Tipologia3\/imgTipologia3.png",
             "TIENE_SUBTIPOLOGIA": "0",
             "backgroundColor": "#cca102"
@@ -31,7 +31,7 @@
             "CODIGO": "5",
             "COD_CLASIFICACION": "1",
             "NOMBRE": "Agenda de Ciudad",
-            "ICONO": null,
+            "ICONO": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png",
             "IMAGEN": null,
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#cca102"
@@ -40,7 +40,7 @@
             "CODIGO": "6",
             "COD_CLASIFICACION": "1",
             "NOMBRE": "Top 10",
-            "ICONO": null,
+            "ICONO": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png",
             "IMAGEN": null,
             "TIENE_SUBTIPOLOGIA": "0",
             "backgroundColor": "#cca102"
@@ -51,7 +51,7 @@
             "CODIGO": "7",
             "COD_CLASIFICACION": "3",
             "NOMBRE": "Historia y Cultura",
-            "ICONO": "\/home\/imagenesBD\/Tipologia7\/iconoTipologia7.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png",
             "IMAGEN": "\/home\/imagenesBD\/Tipologia7\/imgTipologia7.png",
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#cca102"
@@ -60,7 +60,7 @@
             "CODIGO": "8",
             "COD_CLASIFICACION": "3",
             "NOMBRE": "Compras",
-            "ICONO": "\/home\/imagenesBD\/Tipologia8\/iconoTipologia8.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png",
             "IMAGEN": "\/home\/imagenesBD\/Tipologia8\/imgTipologia8.png",
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#cca102"
@@ -69,7 +69,7 @@
             "CODIGO": "9",
             "COD_CLASIFICACION": "3",
             "NOMBRE": "Gastron\u00f3mico",
-            "ICONO": "\/home\/imagenesBD\/Tipologia9\/iconoTipologia9.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png",
             "IMAGEN": "\/home\/imagenesBD\/Tipologia9\/imgTipologia9.png",
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#cca102"
@@ -78,7 +78,7 @@
             "CODIGO": "10",
             "COD_CLASIFICACION": "3",
             "NOMBRE": "Religioso",
-            "ICONO": "\/home\/imagenesBD\/Tipologia10\/iconoTipologia10.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png",
             "IMAGEN": "\/home\/imagenesBD\/Tipologia10\/imgTipologia10.png",
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#cca102"
@@ -87,7 +87,7 @@
             "CODIGO": "11",
             "COD_CLASIFICACION": "3",
             "NOMBRE": "Lujo",
-            "ICONO": "\/home\/imagenesBD\/Tipologia11\/iconoTipologia11.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png",
             "IMAGEN": "\/home\/imagenesBD\/Tipologia11\/imgTipologia11.png",
             "TIENE_SUBTIPOLOGIA": "0",
             "backgroundColor": "#cca102"
@@ -96,7 +96,7 @@
             "CODIGO": "12",
             "COD_CLASIFICACION": "3",
             "NOMBRE": "Bogot\u00e1 verde",
-            "ICONO": "\/home\/imagenesBD\/Tipologia12\/iconoTipologia12.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png",
             "IMAGEN": "\/home\/imagenesBD\/Tipologia12\/imgTipologia12.png",
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#cca102"
@@ -105,7 +105,7 @@
             "CODIGO": "13",
             "COD_CLASIFICACION": "3",
             "NOMBRE": "Diversi\u00f3n",
-            "ICONO": "\/home\/imagenesBD\/Tipologia13\/iconoTipologia13.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png",
             "IMAGEN": "\/home\/imagenesBD\/Tipologia13\/imgTipologia13.png",
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#cca102"
@@ -114,7 +114,7 @@
             "CODIGO": "14",
             "COD_CLASIFICACION": "3",
             "NOMBRE": "Golf",
-            "ICONO": "\/home\/imagenesBD\/Tipologia14\/iconoTipologia14.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png",
             "IMAGEN": "\/home\/imagenesBD\/Tipologia14\/imgTipologia14.png",
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#cca102"
@@ -125,7 +125,7 @@
             "CODIGO": "16",
             "COD_CLASIFICACION": "4",
             "NOMBRE": "Alojamiento",
-            "ICONO": "\/home\/imagenesBD\/Tipologia16\/iconoTipologia16.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png",
             "IMAGEN": "\/home\/imagenesBD\/Tipologia16\/imgTipologia16.png",
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#cca102"
@@ -134,7 +134,7 @@
             "CODIGO": "17",
             "COD_CLASIFICACION": "4",
             "NOMBRE": "Operadores Receptivos",
-            "ICONO": "\/home\/imagenesBD\/Tipologia17\/iconoTipologia17.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png",
             "IMAGEN": "\/home\/imagenesBD\/Tipologia17\/imgTipologia17.png",
             "TIENE_SUBTIPOLOGIA": "0",
             "backgroundColor": "#cca102"
@@ -143,7 +143,7 @@
             "CODIGO": "18",
             "COD_CLASIFICACION": "4",
             "NOMBRE": "Agencias de Viajes",
-            "ICONO": "\/home\/imagenesBD\/Tipologia18\/iconoTipologia18.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png",
             "IMAGEN": "\/home\/imagenesBD\/Tipologia18\/imgTipologia18.png",
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#cca102"
@@ -152,7 +152,7 @@
             "CODIGO": "19",
             "COD_CLASIFICACION": "4",
             "NOMBRE": "Restaurantes",
-            "ICONO": "\/home\/imagenesBD\/Tipologia19\/iconoTipologia19.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png",
             "IMAGEN": "\/home\/imagenesBD\/Tipologia19\/imgTipologia19.png",
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#cca102"
@@ -161,7 +161,7 @@
             "CODIGO": "20",
             "COD_CLASIFICACION": "4",
             "NOMBRE": "Sitios de Rumba",
-            "ICONO": "\/home\/imagenesBD\/Tipologia20\/iconoTipologia20.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png",
             "IMAGEN": "\/home\/imagenesBD\/Tipologia20\/imgTipologia20.png",
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#cca102"
@@ -170,7 +170,7 @@
             "CODIGO": "41",
             "COD_CLASIFICACION": "4",
             "NOMBRE": "PRUEBA",
-            "ICONO": "\/home\/imagenesBD\/Tipologia41\/iconoTipologia41.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png",
             "IMAGEN": "\/home\/imagenesBD\/Tipologia41\/imgTipologia41.png",
             "TIENE_SUBTIPOLOGIA": "0",
             "backgroundColor": "#cca102"
@@ -181,7 +181,7 @@
             "CODIGO": "21",
             "COD_CLASIFICACION": "5",
             "NOMBRE": "Embajadas y Consulados",
-            "ICONO": "\/home\/imagenesBD\/Tipologia21\/iconoTipologia21.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png",
             "IMAGEN": "\/home\/imagenesBD\/Tipologia21\/imgTipologia21.png",
             "TIENE_SUBTIPOLOGIA": "0",
             "backgroundColor": "#cca102"
@@ -190,7 +190,7 @@
             "CODIGO": "22",
             "COD_CLASIFICACION": "5",
             "NOMBRE": "Servicios Financieros",
-            "ICONO": "\/home\/imagenesBD\/Tipologia22\/iconoTipologia22.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png",
             "IMAGEN": "\/home\/imagenesBD\/Tipologia22\/imgTipologia22.png",
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#cca102"
@@ -199,7 +199,7 @@
             "CODIGO": "23",
             "COD_CLASIFICACION": "5",
             "NOMBRE": "Informaci\u00f3n Institucional",
-            "ICONO": "\/home\/imagenesBD\/Tipologia23\/iconoTipologia23.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png",
             "IMAGEN": "\/home\/imagenesBD\/Tipologia23\/imgTipologia23.png",
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#cca102"
@@ -208,7 +208,7 @@
             "CODIGO": "24",
             "COD_CLASIFICACION": "5",
             "NOMBRE": "Puntos de Informaci\u00f3n Tur\u00edstica",
-            "ICONO": "\/home\/imagenesBD\/Tipologia24\/iconoTipologia24.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png",
             "IMAGEN": "\/home\/imagenesBD\/Tipologia24\/imgTipologia24.png",
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#cca102"
@@ -217,7 +217,7 @@
             "CODIGO": "25",
             "COD_CLASIFICACION": "5",
             "NOMBRE": "Transporte",
-            "ICONO": "\/home\/imagenesBD\/Tipologia25\/iconoTipologia25.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png",
             "IMAGEN": "\/home\/imagenesBD\/Tipologia25\/imgTipologia25.png",
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#cca102"
@@ -226,7 +226,7 @@
             "CODIGO": "26",
             "COD_CLASIFICACION": "5",
             "NOMBRE": "Tel\u00e9fonos de Emergencia",
-            "ICONO": "\/home\/imagenesBD\/Tipologia26\/iconoTipologia26.png",
+            "ICONO": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png",
             "IMAGEN": "\/home\/imagenesBD\/Tipologia26\/imgTipologia26.png",
             "TIENE_SUBTIPOLOGIA": "0",
             "backgroundColor": "#cca102"
@@ -235,7 +235,7 @@
             "CODIGO": "27",
             "COD_CLASIFICACION": "5",
             "NOMBRE": "Convertidor de Moneda",
-            "ICONO": null,
+            "ICONO": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png",
             "IMAGEN": null,
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#cca102"
@@ -246,7 +246,7 @@
             "CODIGO": "42",
             "COD_CLASIFICACION": "6",
             "NOMBRE": "Historia y cultura",
-            "ICONO": null,
+            "ICONO": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png",
             "IMAGEN": null,
             "TIENE_SUBTIPOLOGIA": "0",
             "backgroundColor": "#cca102"
@@ -255,7 +255,7 @@
             "CODIGO": "43",
             "COD_CLASIFICACION": "6",
             "NOMBRE": "Compras prueba",
-            "ICONO": null,
+            "ICONO": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png",
             "IMAGEN": null,
             "TIENE_SUBTIPOLOGIA": "0",
             "backgroundColor": "#cca102"
@@ -264,7 +264,7 @@
             "CODIGO": "44",
             "COD_CLASIFICACION": "6",
             "NOMBRE": "Gastron\u00f3mico",
-            "ICONO": null,
+            "ICONO": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png",
             "IMAGEN": null,
             "TIENE_SUBTIPOLOGIA": "0",
             "backgroundColor": "#cca102"
@@ -273,7 +273,7 @@
             "CODIGO": "45",
             "COD_CLASIFICACION": "6",
             "NOMBRE": "Religioso",
-            "ICONO": null,
+            "ICONO": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png",
             "IMAGEN": null,
             "TIENE_SUBTIPOLOGIA": "0",
             "backgroundColor": "#cca102"
@@ -282,7 +282,7 @@
             "CODIGO": "46",
             "COD_CLASIFICACION": "6",
             "NOMBRE": "Lujo",
-            "ICONO": null,
+            "ICONO": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png",
             "IMAGEN": null,
             "TIENE_SUBTIPOLOGIA": "0",
             "backgroundColor": "#cca102"
@@ -291,7 +291,7 @@
             "CODIGO": "47",
             "COD_CLASIFICACION": "6",
             "NOMBRE": "Bogot\u00e1 verde",
-            "ICONO": null,
+            "ICONO": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png",
             "IMAGEN": null,
             "TIENE_SUBTIPOLOGIA": "0",
             "backgroundColor": "#cca102"
@@ -300,7 +300,7 @@
             "CODIGO": "48",
             "COD_CLASIFICACION": "6",
             "NOMBRE": "Diversi\u00f3n",
-            "ICONO": null,
+            "ICONO": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png",
             "IMAGEN": null,
             "TIENE_SUBTIPOLOGIA": "0",
             "backgroundColor": "#cca102"
@@ -309,7 +309,7 @@
             "CODIGO": "49",
             "COD_CLASIFICACION": "6",
             "NOMBRE": "Golf",
-            "ICONO": null,
+            "ICONO": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png",
             "IMAGEN": null,
             "TIENE_SUBTIPOLOGIA": "0",
             "backgroundColor": "#cca102"
