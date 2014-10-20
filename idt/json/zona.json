@@ -110,5 +110,13 @@
     "IMAGEN": null,
     "PUNTO_MINIMO": null,
     "PUNTO_MAXIMO": null
+  },
+   {
+    "CODIGO": "17",
+    "NOMBRE": "otroEjemplo",
+    "DESCRIPCION": "las noches bogotanas se llenan de movimiento, color y sonido",
+    "IMAGEN": null,
+    "PUNTO_MINIMO": null,
+    "PUNTO_MAXIMO": null
   }
 ]
