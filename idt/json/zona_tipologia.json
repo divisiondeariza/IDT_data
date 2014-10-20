@@ -126,5 +126,37 @@
       "COD_CLASIFICACION": "5",
       "TIENE_SUBTIPOLOGIA": "1"
     }
+  ],
+  "6": [
+    {
+      "CODIGO": "6",
+      "CODIGO_ZONA": "6",
+      "CODIGO_TIPOLOGIA": "3",
+      "NOMBRE": "Top 10",
+      "IMAGEN": "",
+      "DESCRIPCION": "",
+      "COD_CLASIFICACION": "1",
+      "TIENE_SUBTIPOLOGIA": "0"
+    },
+    {
+      "CODIGO": "6",
+      "CODIGO_ZONA": "6",
+      "CODIGO_TIPOLOGIA": "56",
+      "NOMBRE": "Alojamiento",
+      "IMAGEN": "\/home\/imagenesBD\/Tipologia16\/imgTipologia16.png",
+      "DESCRIPCION": "",
+      "COD_CLASIFICACION": "4",
+      "TIENE_SUBTIPOLOGIA": "1"
+    },
+    {
+      "CODIGO": "6",
+      "CODIGO_ZONA": "6",
+      "CODIGO_TIPOLOGIA": "56",
+      "NOMBRE": "Transporte",
+      "IMAGEN": "\/home\/imagenesBD\/Tipologia25\/imgTipologia25.png",
+      "DESCRIPCION": "",
+      "COD_CLASIFICACION": "5",
+      "TIENE_SUBTIPOLOGIA": "1"
+    }
   ]
 }
