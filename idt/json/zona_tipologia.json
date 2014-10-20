@@ -126,47 +126,5 @@
       "COD_CLASIFICACION": "5",
       "TIENE_SUBTIPOLOGIA": "1"
     }
-  ],
-  "6": [
-    {
-      "CODIGO": "6",
-      "CODIGO_ZONA": "6",
-      "CODIGO_TIPOLOGIA": "6",
-      "NOMBRE": "Top 10",
-      "IMAGEN": "",
-      "DESCRIPCION": "",
-      "COD_CLASIFICACION": "1",
-      "TIENE_SUBTIPOLOGIA": "0"
-    },
-    {
-      "CODIGO": "6",
-      "CODIGO_ZONA": "6",
-      "CODIGO_TIPOLOGIA": "6",
-      "NOMBRE": "Tràmites",
-      "IMAGEN": "",
-      "DESCRIPCION": "",
-      "COD_CLASIFICACION": "1",
-      "TIENE_SUBTIPOLOGIA": "0"
-    },
-    {
-      "CODIGO": "6",
-      "CODIGO_ZONA": "6",
-      "CODIGO_TIPOLOGIA": "16",
-      "NOMBRE": "Alojamiento",
-      "IMAGEN": "\/home\/imagenesBD\/Tipologia16\/imgTipologia16.png",
-      "DESCRIPCION": "",
-      "COD_CLASIFICACION": "4",
-      "TIENE_SUBTIPOLOGIA": "1"
-    },
-    {
-      "CODIGO": "6",
-      "CODIGO_ZONA": "6",
-      "CODIGO_TIPOLOGIA": "25",
-      "NOMBRE": "Transporte",
-      "IMAGEN": "\/home\/imagenesBD\/Tipologia25\/imgTipologia25.png",
-      "DESCRIPCION": "",
-      "COD_CLASIFICACION": "5",
-      "TIENE_SUBTIPOLOGIA": "1"
-    }
   ]
 }
