@@ -51,6 +51,16 @@
       "DESCRIPCION": "",
       "COD_CLASIFICACION": "4",
       "TIENE_SUBTIPOLOGIA": "1"
+    },
+    {
+      "CODIGO": "2",
+      "CODIGO_ZONA": "5",
+      "CODIGO_TIPOLOGIA": "16",
+      "NOMBRE": "Cultura Bogotá",
+      "IMAGEN": "\/home\/imagenesBD\/Tipologia16\/imgTipologia16.png",
+      "DESCRIPCION": "",
+      "COD_CLASIFICACION": "4",
+      "TIENE_SUBTIPOLOGIA": "1"
     }
   ],
   "4": [
