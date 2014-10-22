@@ -4,7 +4,7 @@
             "CODIGO": "1",
             "COD_CLASIFICACION": "1",
             "NOMBRE": "\u00bfPor qu\u00e9 Bogot\u00e1?",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png",
+            "ICONO": "http://static.freepik.com/foto-gratis/psd-rojo-dados-icono_30-1984.jpg",
             "IMAGEN": "\/home\/imagenesBD\/Tipologia1\/imgTipologia1.png",
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#cca102"
@@ -96,7 +96,7 @@
             "CODIGO": "12",
             "COD_CLASIFICACION": "3",
             "NOMBRE": "Bogot\u00e1 verde",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png",
+            "ICONO": "http://ubuntualways.files.wordpress.com/2011/08/icono_de_musica_by_cidano.png",
             "IMAGEN": "\/home\/imagenesBD\/Tipologia12\/imgTipologia12.png",
             "TIENE_SUBTIPOLOGIA": "1",
             "backgroundColor": "#cca102"
@@ -255,7 +255,7 @@
             "CODIGO": "43",
             "COD_CLASIFICACION": "6",
             "NOMBRE": "Compras prueba",
-            "ICONO": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png",
+            "ICONO": "https://85f54f1dc5-custmedia.vresp.com/d37b0e046c/Exclamation-Warning.gif",
             "IMAGEN": null,
             "TIENE_SUBTIPOLOGIA": "0",
             "backgroundColor": "#cca102"

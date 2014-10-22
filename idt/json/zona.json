@@ -58,7 +58,7 @@
   {
     "CODIGO": "8",
     "NOMBRE": "Salitre",
-    "DESCRIPCION": "Comprende la Gobernaci\u00f3n de Cundinamarca hasta la Av Boyaca",
+    "DESCRIPCION": "Comprende la Gobernaciòn de Cundinamarca hasta la Av Boyaca",
     "IMAGEN": null,
     "PUNTO_MINIMO": null,
     "PUNTO_MAXIMO": null
@@ -98,7 +98,7 @@
   {
     "CODIGO": "13",
     "NOMBRE": "No Pertenece a ZITP",
-    "DESCRIPCION": "No est\u00e1 asociada",
+    "DESCRIPCION": "No està asociada",
     "IMAGEN": null,
     "PUNTO_MINIMO": null,
     "PUNTO_MAXIMO": null
@@ -113,7 +113,7 @@
   },
    {
     "CODIGO": "17",
-    "NOMBRE": "otroEjemplo",
+    "NOMBRE": "Miradores",
     "DESCRIPCION": "las noches bogotanas se llenan de movimiento, color y sonido",
     "IMAGEN": null,
     "PUNTO_MINIMO": null,
