@@ -30,7 +30,7 @@
         "CODIGO": "4",
         "NOMBRE": "Calle 100",
         "DESCRIPCION": "Comprende la calle 100 hasta no se",
-        "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/ejemplo_zona.jpg",
+        "IMAGEN": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjvBKfrXkEc0zaDGP0cnC5Q0xYy4RyntK2GxF289Prj9geOXhYfg",
         "PUNTO_MINIMO": null,
         "PUNTO_MAXIMO": null,
         "backgroundColor": "#13b5a6"
