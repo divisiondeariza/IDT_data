@@ -3,7 +3,7 @@
         "CODIGO": "1",
         "NOMBRE": "Candelaria",
         "DESCRIPCION": "Comprende el Centro de la ciudad",
-        "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/ejemplo_zona.jpg",
+        "IMAGEN": "http://www.arqhys.com/construccion/fotos/construccion/Torre-Colpatria-Bogot%C3%A1.1.jpg",
         "PUNTO_MINIMO": null,
         "PUNTO_MAXIMO": null,
         "backgroundColor": "#0b890b"
@@ -12,7 +12,7 @@
         "CODIGO": "2",
         "NOMBRE": "Usaquen",
         "DESCRIPCION": "Comprende el parque de esa localidad",
-        "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/ejemplo_zona.jpg",
+        "IMAGEN": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRukc9dSUbc-EL7nYIpz9zoOxafUdmlu_cm2QZfvYJgVOytI26r",
         "PUNTO_MINIMO": null,
         "PUNTO_MAXIMO": null,
         "backgroundColor": "#195c93"
