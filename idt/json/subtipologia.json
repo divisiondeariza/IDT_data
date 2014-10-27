@@ -46,6 +46,15 @@
       "DESCRIPCION": "",
       "CONTENIDO": "",
       "COD_TIPOLOGIA": "2"
+    },
+    {
+      "COD_CLASIFICACION": "2",
+      "CODIGO": "67",
+      "NOMBRE": "Tour Bogotà",
+      "IMAGEN": "\/home\/imagenesBD\/Tipologia1\/Subtipologia4\/imgSubtipologia4.png",
+      "DESCRIPCION": "",
+      "CONTENIDO": "",
+      "COD_TIPOLOGIA": "2"
     }
   ],
   "3": [
@@ -55,6 +64,15 @@
       "NOMBRE": "Atracciones Gratuitas",
       "IMAGEN": null,
       "DESCRIPCION": "Atracciones Gratuitas Atracciones Gratuitas Atracciones Gratuitas Atracciones GratuitasAtracciones Gratuitas",
+      "CONTENIDO": "Taxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee",
+      "COD_TIPOLOGIA": "3"
+    },
+     {
+      "COD_CLASIFICACION": "2",
+      "CODIGO": "68",
+      "NOMBRE": "Ciclovia",
+      "IMAGEN": null,
+      "DESCRIPCION": "CicloVia",
       "CONTENIDO": "Taxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee\r\n\r\nTaxi: BDDE DE\r\nTelefono: 223232\r\nNombre: AAA BBDE CDFE\r\nCosto: 99999\r\nEmpresa: Empresa taxi\r\n\r\nTaxi: ABCD EFG\r\nTelefono: 85258858\r\nNombre: EDFE SDFWEF\r\nCosto: 223232\r\nEmpresa: asdfsdfsdfdfeee",
       "COD_TIPOLOGIA": "3"
     }
