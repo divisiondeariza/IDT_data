@@ -1201,6 +1201,25 @@
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         }
     ],
+    "67": [
+        {
+            "CODIGO": "67",
+            "CODIGO_SUBTIPOLOGIA": "67",
+            "COD_TIPOLOGIA": "3",
+            "NOMBRE_TIPOLOGIA": "PRUEBA1",
+            "CODIGO_PRESTADOR": "200",
+            "COD_ZONA": "13",
+            "NOMBRE": "HMG SUITES 108",
+            "DESCRIPCION": "NA",
+            "DIRECCION": "CL 108 16 05",
+            "TELEFONO": "Tel1:6370319   Tel2:NA   Tel3:NA   Fax:NA",
+            "CORREO": "suites108@hotmail.com",
+            "URL": "www.suites108.com",
+            "UBICACION": null,
+            "PRECIO_PROMEDIO": "M\u00e1s de $ 150.001",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+        }
+         ],
     "68": [
         {
             "CODIGO": "68",
