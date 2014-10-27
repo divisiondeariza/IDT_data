@@ -585,6 +585,24 @@
     },
     {
       "COD_CLASIFICACION": "5",
+      "CODIGO": "33",
+      "NOMBRE": "Metro",
+      "IMAGEN": "\/home\/imagenesBD\/Tipologia25\/Subtipologia56\/imgSubtipologia56.png",
+      "DESCRIPCION": "",
+      "CONTENIDO": "",
+      "COD_TIPOLOGIA": "25"
+    },
+    {
+      "COD_CLASIFICACION": "5",
+      "CODIGO": "59",
+      "NOMBRE": "Cable",
+      "IMAGEN": "\/home\/imagenesBD\/Tipologia25\/Subtipologia56\/imgSubtipologia56.png",
+      "DESCRIPCION": "",
+      "CONTENIDO": "",
+      "COD_TIPOLOGIA": "25"
+    },
+    {
+      "COD_CLASIFICACION": "5",
       "CODIGO": "57",
       "NOMBRE": "Taxis",
       "IMAGEN": "\/home\/imagenesBD\/Tipologia25\/Subtipologia57\/imgSubtipologia57.png",
