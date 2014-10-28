@@ -380,6 +380,24 @@
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
+        "35": [
+        {
+            "CODIGO": "29",
+            "CODIGO_SUBTIPOLOGIA": "29",
+            "COD_TIPOLOGIA": "16",
+            "NOMBRE_TIPOLOGIA": "Restaurantes",
+            "CODIGO_PRESTADOR": "2",
+            "COD_ZONA": "13",
+            "NOMBRE": "Santafereño",
+            "DESCRIPCION": "NA",
+            "DIRECCION": "CL 68 17 28",
+            "TELEFONO": "Tel1:6061236   Tel2:2357329   Tel3:3144336865   Fax:3132860205",
+            "CORREO": "angelinav68@hotmail.com",
+            "URL": "NA",
+            "UBICACION": null,
+            "PRECIO_PROMEDIO": "Menos de $ 60.000",
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+        },
         {
             "CODIGO": "29",
             "CODIGO_SUBTIPOLOGIA": "29",
