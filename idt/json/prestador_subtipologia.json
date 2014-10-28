@@ -10,11 +10,12 @@
             "NOMBRE": "prueba",
             "DESCRIPCION": "prueba2",
             "DIRECCION": "prueba2",
-            "TELEFONO": "2277777",
+            "TELEFONO": "",
             "CORREO": "prueba2@com.co",
             "URL": "prueba2",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "prueba2",
+            "HORARIO": "prueba2",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -27,11 +28,12 @@
             "NOMBRE": "pruebaaaaaa",
             "DESCRIPCION": "asdfasdfasdf",
             "DIRECCION": "sdfsdf",
-            "TELEFONO": "2323",
+            "TELEFONO": "",
             "CORREO": "aaa@com.co",
             "URL": "sdfsdf",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "2323",
+            "HORARIO": "222",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         }
     ],
@@ -43,14 +45,15 @@
             "NOMBRE_TIPOLOGIA": "Top 10",
             "CODIGO_PRESTADOR": "189",
             "COD_ZONA": "4",
-            "NOMBRE":"PRUEBA APARTA ESTUDIOS ANDINO LTDA",
+            "NOMBRE": "APARTA ESTUDIOS ANDINO LTDA",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 19 A 102 09",
-            "TELEFONO": "Tel1:6220678   Tel2:NA   Tel3:NA   Fax:NA",
+            "TELEFONO": "6220678",
             "CORREO": "reservas@apartaestudioslosandes.com",
             "URL": "www.apartaestudioslosandre.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 150.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -60,14 +63,15 @@
             "NOMBRE_TIPOLOGIA": "Top 10",
             "CODIGO_PRESTADOR": "204",
             "COD_ZONA": "4",
-            "NOMBRE": "APARTA ESTUDIOS CAMPIN INNICIAL",
+            "NOMBRE": "APARTA ESTUDIOS CAMPIN INN",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 24 61 D 37",
-            "TELEFONO": "Tel1:2480957   Tel2:2128659   Tel3:2482678   Fax:NA",
+            "TELEFONO": "2480957",
             "CORREO": "apartaestudioselcampin@gmail.com",
             "URL": "www.hotelbogotainn.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -80,11 +84,12 @@
             "NOMBRE": "APARTAESTUDIOS KAFIR",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 25 B 36 28",
-            "TELEFONO": "Tel1:2447143   Tel2:2447143   Tel3:NA   Fax:NA",
+            "TELEFONO": "2447143",
             "CORREO": "info@alojamientoenbogota.com",
             "URL": "www.alojamientoenbogota.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 150.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -97,11 +102,12 @@
             "NOMBRE": "AR HOTEL SALITRE SUITES  SPA CENTRO DE CONVENCIONES",
             "DESCRIPCION": "NA",
             "DIRECCION": "AK 60 22 99",
-            "TELEFONO": "Tel1:7477333   Tel2:7436700   Tel3:NA   Fax:NA",
+            "TELEFONO": "7477333",
             "CORREO": "reservas@hotelesar.com",
             "URL": "www.hotelesar.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 150.001 y $ 350.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -114,11 +120,12 @@
             "NOMBRE": "APARTAHOTEL 122 PLAZA",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 15 A 122 27",
-            "TELEFONO": "Tel1:7569170   Tel2:7569175   Tel3:NA   Fax:7561590",
+            "TELEFONO": "7569170",
             "CORREO": "admon122plaza@gmail.com",
             "URL": "www.122plaza.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "M\u00e1s de $ 150.001",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -131,11 +138,12 @@
             "NOMBRE": "APARTSUITES CK",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 21 39 A 36",
-            "TELEFONO": "Tel1:4781092   Tel2:5109257   Tel3:NA   Fax:NA",
+            "TELEFONO": "4781092",
             "CORREO": "reservas@apartasuitesck.com",
             "URL": "www.apartasuitesck.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 150.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -148,11 +156,12 @@
             "NOMBRE": "BE HOTELES FERIA EXPOSICI\u00d3N",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 25 38 08",
-            "TELEFONO": "Tel1:7441286   Tel2:7441287   Tel3:3175009724   Fax:NA",
+            "TELEFONO": "7441286",
             "CORREO": "johanna.parra@behoteles.com.co",
             "URL": "www.behoteles.comc.o",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 150.001 y $ 350.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -165,11 +174,12 @@
             "NOMBRE": "ANTIQUE 65 HOTEL DECORACI\u00d3N",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 65 5 50",
-            "TELEFONO": "Tel1:4660219   Tel2:4660204   Tel3:NA   Fax:4660174",
+            "TELEFONO": "4660219",
             "CORREO": "reservas@hotelantique65.com",
             "URL": "www.hotelantique65.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -182,11 +192,12 @@
             "NOMBRE": "101 PARK HOUSE",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 21 101 10",
-            "TELEFONO": "Tel1:6000101   Tel2:6001087   Tel3:6001828   Fax:6106554",
+            "TELEFONO": "6000101",
             "CORREO": "reservas@101parkhouse.com",
             "URL": "www.101parkhouse.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -199,11 +210,12 @@
             "NOMBRE": "ALPES BOGOT\u00c1 HOSTAL",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 48 93 64",
-            "TELEFONO": "Tel1:6221738   Tel2:6168160   Tel3:NA   Fax:6101328",
+            "TELEFONO": "6221738",
             "CORREO": "alpesbogota@hotmail.com",
             "URL": "www.alpesbogotacasahotel.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         }
     ],
@@ -218,11 +230,12 @@
             "NOMBRE": "HOTEL LOS CAMBULOS",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 96 C 17 38",
-            "TELEFONO": "Tel1:2679973   Tel2:2673387   Tel3:3132913396   Fax:NA",
+            "TELEFONO": "2679973",
             "CORREO": "NA",
             "URL": "NA",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -235,11 +248,12 @@
             "NOMBRE": "HOTEL ESCORIAL FONTIB\u00d3N EN SUCESI\u00d3N",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 17 96 C 15",
-            "TELEFONO": "Tel1:2981150   Tel2:2672951   Tel3:4188241   Fax:NA",
+            "TELEFONO": "2981150",
             "CORREO": "hotelescorial@hotmail.com",
             "URL": "NA",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -252,11 +266,12 @@
             "NOMBRE": "CASA BLANCA 98 HOTEL",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 17 A 97 83",
-            "TELEFONO": "Tel1:4186098   Tel2:NA   Tel3:NA   Fax:NA",
+            "TELEFONO": "4186098",
             "CORREO": "aaa@com.co",
             "URL": "NA",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -269,11 +284,12 @@
             "NOMBRE": "HOTEL FONTIB\u00d3N",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 17 97 10",
-            "TELEFONO": "Tel1:2679728   Tel2:2679828   Tel3:NA   Fax:2678579",
+            "TELEFONO": "2679728",
             "CORREO": "servicioalcliente@hotelfontibon.com",
             "URL": "www.hotelfontibon.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -286,11 +302,12 @@
             "NOMBRE": "HOTEL RESIDENCIA ESPA\u00d1A",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 7 23 20",
-            "TELEFONO": "Tel1:3421396   Tel2:7503736   Tel3:3134229479   Fax:3441396",
+            "TELEFONO": "3421396",
             "CORREO": "hotel_107@hotmail.com",
             "URL": "NA",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -303,11 +320,12 @@
             "NOMBRE": "HOSTAL BOGOT\u00c1 REAL",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 103 B 46 05",
-            "TELEFONO": "Tel1:6348094   Tel2:3112121599   Tel3:NA   Fax:6015161",
+            "TELEFONO": "6348094",
             "CORREO": "info@hostalbogotareal.com",
             "URL": "www.hostalbogotareal.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -320,11 +338,12 @@
             "NOMBRE": "HOTEL DANN AV 19 - INVERSIONES SPIWAK LTDA",
             "DESCRIPCION": "NA",
             "DIRECCION": "AV 19 5 72",
-            "TELEFONO": "Tel1:2840100   Tel2:NA   Tel3:NA   Fax:2823108",
+            "TELEFONO": "2840100",
             "CORREO": "lina.medellin@hotelesdann.com - centralreservas@hotelesdann.com",
             "URL": "www.hotelesdann.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -337,11 +356,12 @@
             "NOMBRE": "HOTEL FERROVIAL",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 40 22 59",
-            "TELEFONO": "Tel1:2695559   Tel2:2695555   Tel3:NA   Fax:NA",
+            "TELEFONO": "2695559",
             "CORREO": "recepcion@hotelferrovialinn.com - reservas@hotelferrovialinn.com",
             "URL": "www.hotelferrovialinn.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -354,11 +374,12 @@
             "NOMBRE": "NUEVO HOTEL TEUSAQUILLO",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 16 28 A 24",
-            "TELEFONO": "Tel1:2457996   Tel2:6055515   Tel3:2857960   Fax:NA",
+            "TELEFONO": "2457996",
             "CORREO": "hteusaquillo@etb.net.co",
             "URL": "NA",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         }
     ],
@@ -373,11 +394,12 @@
             "NOMBRE": "HOTEL CANDILEJAS",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 68 17 28",
-            "TELEFONO": "Tel1:6061236   Tel2:2357329   Tel3:3144336865   Fax:3132860205",
+            "TELEFONO": "6061236",
             "CORREO": "angelinav68@hotmail.com",
             "URL": "NA",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -390,11 +412,12 @@
             "NOMBRE": "HOTEL BOYAC\u00c1 LA 24",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 24 68 35",
-            "TELEFONO": "Tel1:2502241   Tel2:2315994   Tel3:NA   Fax:NA",
+            "TELEFONO": "2502241",
             "CORREO": "NA",
             "URL": "NA",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -407,11 +430,12 @@
             "NOMBRE": "APARTAHOTEL LAGOS DEL NORTE",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 23 67 20",
-            "TELEFONO": "Tel1:2491610   Tel2:2491637   Tel3:NA   Fax:NA",
+            "TELEFONO": "2491610",
             "CORREO": "hotel.lagos.del.norte@gmail.com",
             "URL": "NA",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -424,11 +448,12 @@
             "NOMBRE": "HOSTAL MONSERRAT",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 24 82 43",
-            "TELEFONO": "Tel1:6168160   Tel2:NA   Tel3:NA   Fax:6101328",
+            "TELEFONO": "6168160",
             "CORREO": "alpesbogota@hotmail.com - julianleus@hotmail.com",
             "URL": "NA",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -441,11 +466,12 @@
             "NOMBRE": "SUITTES INN TUR\u00cdSTICAS CALLE 63",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 63 28 62",
-            "TELEFONO": "Tel1:2116901   Tel2:2490387   Tel3:2489640   Fax:NA",
+            "TELEFONO": "2116901",
             "CORREO": "turisticas63@hotelbogotainn.com",
             "URL": "www.hotelbogotainn.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -458,11 +484,12 @@
             "NOMBRE": "APARTAMENTOS CEDROS 63 INN  - APARTAMENTO LOS CEDROS",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 63 C 21 46",
-            "TELEFONO": "Tel1:3453963   Tel2:3452603   Tel3:5486174   Fax:NA",
+            "TELEFONO": "3453963",
             "CORREO": "apartamentoscedro@gmail.com",
             "URL": "www.hotelbogotainn.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -475,11 +502,12 @@
             "NOMBRE": "SUITES INN ECON\u00d3MICAS CALLE 63",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 63 B 21 30",
-            "TELEFONO": "Tel1:2492160   Tel2:2492077   Tel3:2492289   Fax:2358229",
+            "TELEFONO": "2492160",
             "CORREO": "economicas63@gmail.com",
             "URL": "www.hotelbogotainn.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -492,11 +520,12 @@
             "NOMBRE": "HOTEL 63 INN EJECUTIVO",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 63 D 21 26",
-            "TELEFONO": "Tel1:2116459   Tel2:7495314   Tel3:NA   Fax:NA",
+            "TELEFONO": "2116459",
             "CORREO": "hotel_63in_ejecutivo@hotmail.com",
             "URL": "www.hotelesejecutivobogota.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -509,11 +538,12 @@
             "NOMBRE": "HOTEL ELEGANT SUIT NORMANDIA",
             "DESCRIPCION": "NA",
             "DIRECCION": "AV BOYAC\u00c1 51 62",
-            "TELEFONO": "Tel1:4838338   Tel2:2630987   Tel3:NA   Fax:4838338",
+            "TELEFONO": "4838338",
             "CORREO": "hotelelegantsuitenormandia@hotmail.com",
             "URL": "www.hotelelegantsuite.net",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -526,11 +556,12 @@
             "NOMBRE": "HOTEL SAN JOS\u00c9 BAVARIA 1",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 12 71 D 60",
-            "TELEFONO": "Tel1:2925026   Tel2:4126025   Tel3:NA   Fax:4126015",
+            "TELEFONO": "2925026",
             "CORREO": "hotelsanjosebavaria@hotmail.com",
             "URL": "NA",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -543,11 +574,12 @@
             "NOMBRE": "HOTEL BOGOT\u00c1 ROYAL",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 8 A 99 55",
-            "TELEFONO": "Tel1:6341734   Tel2:6004100   Tel3:NA   Fax:NA",
+            "TELEFONO": "6341734",
             "CORREO": "reservas@hotelbogotaroyal.com",
             "URL": "www.hotelesroyal.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 150.001 y $ 350.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -560,11 +592,12 @@
             "NOMBRE": "LA MANSI\u00d3N HOTEL",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 17 102 47\/51",
-            "TELEFONO": "Tel1:2578037   Tel2:2578017   Tel3:2568038   Fax:6214876",
+            "TELEFONO": "2578037",
             "CORREO": "reservas@hotellamansionbogota.com",
             "URL": "www.hotellamansionbogota.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 150.001 y $ 350.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -577,11 +610,12 @@
             "NOMBRE": "RADISSON ROYAL BOGOT\u00c1 HOTEL",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 113 7 65",
-            "TELEFONO": "Tel1:6578700   Tel2:6578709   Tel3:NA   Fax:6295551",
+            "TELEFONO": "6578700",
             "CORREO": "reservas@radissonroyal.com",
             "URL": "www.radisson.com\/bogota.co",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "M\u00e1s de $ 350.001",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -594,11 +628,12 @@
             "NOMBRE": "HOTEL CHARLESTON BOGOT\u00c1",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 13 85 46",
-            "TELEFONO": "Tel1:2571100   Tel2:NA   Tel3:NA   Fax:6160687",
+            "TELEFONO": "2571100",
             "CORREO": "info@hotelescharleston.com",
             "URL": "www.hotelescharleston.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "M\u00e1s de $ 350.001",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -611,11 +646,12 @@
             "NOMBRE": "HOTEL CASONA DEL PATIO",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 8 69 24",
-            "TELEFONO": "Tel1:2128805   Tel2:NA   Tel3:NA   Fax:2128805",
+            "TELEFONO": "2128805",
             "CORREO": "reservas@lacasonadelpatio.net",
             "URL": "www.lacasonadelpatio,net",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -628,11 +664,12 @@
             "NOMBRE": "HOTEL BOGOT\u00c1 REGENCY (REGENCY SUITES)",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 7 127 21",
-            "TELEFONO": "Tel1:5921777   Tel2:NA   Tel3:NA   Fax:6254225",
+            "TELEFONO": "5921777",
             "CORREO": "reservas@hotelregency.com.co",
             "URL": "www.hotelregency.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 150.001 y $ 350.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -645,11 +682,12 @@
             "NOMBRE": "HOTEL EGINA",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 14 A 119 16",
-            "TELEFONO": "Tel1:6371610   Tel2:NA   Tel3:NA   Fax:NA",
+            "TELEFONO": "6371610",
             "CORREO": "info@lemanoir-egina.com",
             "URL": "www.lemanoir-egina.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 150.001 y $ 350.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -662,11 +700,12 @@
             "NOMBRE": "NUEVO HOTEL RINC\u00d3N SANTA BARBARA",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 126 7 A 19",
-            "TELEFONO": "Tel1:6201397   Tel2:NA   Tel3:NA   Fax:6201198",
+            "TELEFONO": "6201397",
             "CORREO": "vesntas@rincondesantabarbara.com",
             "URL": "www.rincondesantabarbara.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 150.001 y $ 350.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -679,11 +718,12 @@
             "NOMBRE": "CASABLANCA 121",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 121 7 A 66",
-            "TELEFONO": "Tel1:5938794   Tel2:NA   Tel3:NA   Fax:NA",
+            "TELEFONO": "5938794",
             "CORREO": "reservas@hbybhotels.com",
             "URL": "www.hbybhotels.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 150.001 y $ 350.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -696,11 +736,12 @@
             "NOMBRE": "HOTEL HILL HOUSE",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 120 A 6 54",
-            "TELEFONO": "Tel1:2133434   Tel2:NA   Tel3:NA   Fax:2134352",
+            "TELEFONO": "2133434",
             "CORREO": "reservas@hotelhillhouse.com.co",
             "URL": "www.hotelhillhouse.com.co",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "M\u00e1s de $ 150.001",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -713,11 +754,12 @@
             "NOMBRE": "HOTEL BH LA QUINTA",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 5 74 52",
-            "TELEFONO": "Tel1:7424908   Tel2:NA   Tel3:NA   Fax:7424908",
+            "TELEFONO": "7424908",
             "CORREO": "recepcionlaquinta@bhhoteles.com",
             "URL": "www.bhhoteles.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 150.001 y $ 350.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -730,11 +772,12 @@
             "NOMBRE": "CELEBRITIES SUITES - MODERNO PARK SA",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 74 10 33",
-            "TELEFONO": "Tel1:6011414   Tel2:6012604   Tel3:6012606   Fax:6010526",
+            "TELEFONO": "6011414",
             "CORREO": "reserva@celebritiessuites.com",
             "URL": "www.celebritiessuites.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 150.001 y $ 350.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -747,11 +790,12 @@
             "NOMBRE": "HOTEL CASA FALCON",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 69 11 A 64",
-            "TELEFONO": "Tel1:2110491   Tel2:NA   Tel3:NA   Fax:2558249",
+            "TELEFONO": "2110491",
             "CORREO": "jcartagena64@gmail.com",
             "URL": "www.hotelcasafalcon.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -764,11 +808,12 @@
             "NOMBRE": "APARTAMENTOS LAGO 76",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 15 76 15",
-            "TELEFONO": "Tel1:6913720   Tel2:2366458   Tel3:2366494   Fax:2567303",
+            "TELEFONO": "6913720",
             "CORREO": "ap_hotelago76@yahoo.com - apartahotel_76@hotmail.com",
             "URL": "www.lago76.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 150.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -781,11 +826,12 @@
             "NOMBRE": "HOTEL INTER BOGOT\u00c1",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 3 20 17",
-            "TELEFONO": "Tel1:3417057   Tel2:2837631   Tel3:NA   Fax:3346712",
+            "TELEFONO": "3417057",
             "CORREO": "servicioalcliente@interbogotahotel.com",
             "URL": "www.interbogotahotel.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -798,11 +844,12 @@
             "NOMBRE": "HOTEL SOFITEL BOGOT\u00c1 VICTORIA REGIA - PROMOTORA Y OPERADORA DE HOTELES PROMOTEL",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 13 85 80",
-            "TELEFONO": "Tel1:6212666   Tel2:NA   Tel3:NA   Fax:6220692",
+            "TELEFONO": "6212666",
             "CORREO": "reservas.bogota@sofitel.com - reservas@sofitel.com",
             "URL": "www.sofitel.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "M\u00e1s de $ 350.001",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -815,11 +862,12 @@
             "NOMBRE": "HOTEL ESTRELLA LA 23",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 23 7 86",
-            "TELEFONO": "Tel1:3418790   Tel2:3133026578   Tel3:NA   Fax:NA",
+            "TELEFONO": "3418790",
             "CORREO": "hotelestrellala23@hotmail.com",
             "URL": "www.hotelestrellala23.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 150.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -832,11 +880,12 @@
             "NOMBRE": "HOTEL LIDO",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 11 9 45",
-            "TELEFONO": "Tel1:3412582   Tel2:NA   Tel3:NA   Fax:NA",
+            "TELEFONO": "3412582",
             "CORREO": "lidoplazahotel@hotmail.com",
             "URL": "NA",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -849,11 +898,12 @@
             "NOMBRE": "HOTEL DE LA OPERA - INVERSIONES LA OPERA S A",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 10 5 72",
-            "TELEFONO": "Tel1:3362066   Tel2:NA   Tel3:NA   Fax:3374717",
+            "TELEFONO": "3362066",
             "CORREO": "manager@hotelopera.com.co; sales@hotelopera.com.co",
             "URL": "www.hotelopera.com.co",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 150.001 y $ 350.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -866,11 +916,12 @@
             "NOMBRE": "POSADA ANANDA MAYI",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 9 2 81",
-            "TELEFONO": "Tel1:3417208   Tel2:3340419   Tel3:NA   Fax:NA",
+            "TELEFONO": "3417208",
             "CORREO": "anandamayihostel@yahoo.com",
             "URL": "www.anandamayihostel.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -883,11 +934,12 @@
             "NOMBRE": "HOTEL AVENIDA JIM\u00c9NEZ",
             "DESCRIPCION": "NA",
             "DIRECCION": "AV JIM\u00c9NEZ 4 69",
-            "TELEFONO": "Tel1:2436685   Tel2:2867303   Tel3:NA   Fax:NA",
+            "TELEFONO": "2436685",
             "CORREO": "havjimenez@gmail.com",
             "URL": "www.hotelavenidajimenez.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -900,11 +952,12 @@
             "NOMBRE": "HOTEL AMBAL\u00c1 BOGOT\u00c1 COLONIAL",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 5 12 B 46",
-            "TELEFONO": "Tel1:3426384   Tel2:3412376   Tel3:3376593   Fax:2863751",
+            "TELEFONO": "3426384",
             "CORREO": "info@hotelambala.net",
             "URL": "www.hotelambala.net",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -917,11 +970,12 @@
             "NOMBRE": "HOTEL INTERNACIONAL",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 5 12 C 45",
-            "TELEFONO": "Tel1:3418731   Tel2:3418336   Tel3:NA   Fax:NA",
+            "TELEFONO": "3418731",
             "CORREO": "hotelinternacionalbogota@hotmail.com",
             "URL": "www.hotelinternacionalbogota.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -934,11 +988,12 @@
             "NOMBRE": "HOSTAL SUE CANDELARIA",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 3 12 C 18",
-            "TELEFONO": "Tel1:3412647   Tel2:3144640774   Tel3:NA   Fax:NA",
+            "TELEFONO": "3412647",
             "CORREO": "hostalsuecandelaria@yahoo.com",
             "URL": "www.suecandelaria.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -951,11 +1006,12 @@
             "NOMBRE": "HOTEL DANN COLONIAL",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 12 C 4 21",
-            "TELEFONO": "Tel1:3411680   Tel2:2814358   Tel3:NA   Fax:3349993",
+            "TELEFONO": "3411680",
             "CORREO": "reservas@danncolonial.com",
             "URL": "www.hoteldanncolonial.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -968,11 +1024,12 @@
             "NOMBRE": "HOTEL EL DORADO",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 4 12 D 02",
-            "TELEFONO": "Tel1:3343988   Tel2:2817271   Tel3:NA   Fax:NA",
+            "TELEFONO": "3343988",
             "CORREO": "doradohotel@hotmail.com",
             "URL": "NA",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -985,11 +1042,12 @@
             "NOMBRE": "HOSTAL SUE E.U.",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 12 F 2 55",
-            "TELEFONO": "Tel1:3348894   Tel2:NA   Tel3:NA   Fax:NA",
+            "TELEFONO": "3348894",
             "CORREO": "hostalsue@yahoo.com",
             "URL": "www.suecandelaria.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -1002,11 +1060,12 @@
             "NOMBRE": "HOSTAL DE FEDERMAN",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 38 56 38",
-            "TELEFONO": "Tel1:2225531   Tel2:NA   Tel3:NA   Fax:NA",
+            "TELEFONO": "2225531",
             "CORREO": "contactenos@hostaldefederman.com",
             "URL": "www.hostaldefederman.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -1019,11 +1078,12 @@
             "NOMBRE": "APARTAMENTOS GALERIAS 52",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 30 52 38",
-            "TELEFONO": "Tel1:2486652   Tel2:2486521   Tel3:3477130   Fax:3481310",
+            "TELEFONO": "2486652",
             "CORREO": "galerias51@gmail.com",
             "URL": "www.apartamentosgalerias.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 150.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -1036,11 +1096,12 @@
             "NOMBRE": "HOTEL EMBAJADOR",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 37 18 A 49",
-            "TELEFONO": "Tel1:2458078   Tel2:2452842   Tel3:2322636   Fax:2458078",
+            "TELEFONO": "2458078",
             "CORREO": "hotelembajador01@hotmail.com",
             "URL": "www.hotelembajador.com.co",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -1053,11 +1114,12 @@
             "NOMBRE": "HOTEL SUAMOX",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 38 16 07",
-            "TELEFONO": "Tel1:2870065   Tel2:2329812   Tel3:3123869128   Fax:2878553",
+            "TELEFONO": "2870065",
             "CORREO": "reservas@hotelsuamox.com",
             "URL": "www.hotelsuamox.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -1070,11 +1132,12 @@
             "NOMBRE": "HOTEL INNOVA MASTER CENTRO INTERNACIONAL",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 34 7 87",
-            "TELEFONO": "Tel1:2887007   Tel2:NA   Tel3:NA   Fax:NA",
+            "TELEFONO": "2887007",
             "CORREO": "reservas@hotelesinnova.com",
             "URL": "www.hotelesinnova.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -1087,11 +1150,12 @@
             "NOMBRE": "HOTEL VILLA KARINA",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 30 17 47",
-            "TELEFONO": "Tel1:2871445   Tel2:2870953   Tel3:2871298   Fax:NA",
+            "TELEFONO": "2871445",
             "CORREO": "hotelvillakarina@yahoo.es",
             "URL": "NA",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -1104,11 +1168,12 @@
             "NOMBRE": "HOTEL CAVIAR",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 19 39 A 18",
-            "TELEFONO": "Tel1:2870870   Tel2:NA   Tel3:NA   Fax:2870820",
+            "TELEFONO": "2870870",
             "CORREO": "reservas@hotelcaviar.com",
             "URL": "www.hotelcaviar.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -1121,11 +1186,12 @@
             "NOMBRE": "CASA KOLPING BOGOT\u00c1",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 16 35 41",
-            "TELEFONO": "Tel1:2453223   Tel2:NA   Tel3:NA   Fax:NA",
+            "TELEFONO": "2453223",
             "CORREO": "ckolpingbogta@etb.net.co",
             "URL": "www.kolpingcolombia.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -1138,11 +1204,12 @@
             "NOMBRE": "HOTEL AMERICAN DREAM AND EVENTS",
             "DESCRIPCION": "NA",
             "DIRECCION": "AV 40 25 28",
-            "TELEFONO": "Tel1:2643309   Tel2:NA   Tel3:NA   Fax:2442286",
+            "TELEFONO": "2643309",
             "CORREO": "reservas@hotelamericandream.com",
             "URL": "www.hotelamericandream.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -1155,11 +1222,12 @@
             "NOMBRE": "HOTEL COLOMBIANS SUITE INTERNATIONAL",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 43 A 24 C 06",
-            "TELEFONO": "Tel1:7441010   Tel2:NA   Tel3:NA   Fax:NA",
+            "TELEFONO": "7441010",
             "CORREO": "reservas@hotelcolombiansuite.com",
             "URL": "www.hotelescsi.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         }
     ],
@@ -1174,11 +1242,12 @@
             "NOMBRE": "prueba prestador22",
             "DESCRIPCION": "uuuuuuuuuerererer",
             "DIRECCION": "dir",
-            "TELEFONO": "3242367676",
+            "TELEFONO": "",
             "CORREO": "aaabbbb@com.co",
             "URL": "eswerrrrrrerererere",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "3242345",
+            "HORARIO": "",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         }
     ],
@@ -1193,11 +1262,12 @@
             "NOMBRE": "101 PARK HOUSE",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 21 101 10",
-            "TELEFONO": "Tel1:6000101   Tel2:6001087   Tel3:6001828   Fax:6106554",
+            "TELEFONO": "6000101",
             "CORREO": "reservas@101parkhouse.com",
             "URL": "www.101parkhouse.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         }
     ],
@@ -1212,11 +1282,12 @@
             "NOMBRE": "HMG SUITES 108",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 108 16 05",
-            "TELEFONO": "Tel1:6370319   Tel2:NA   Tel3:NA   Fax:NA",
+            "TELEFONO": "6370319",
             "CORREO": "suites108@hotmail.com",
             "URL": "www.suites108.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "M\u00e1s de $ 150.001",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -1229,11 +1300,12 @@
             "NOMBRE": "DESTINO NOMADA HOSTEL",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 11 00 38",
-            "TELEFONO": "Tel1:3520932   Tel2:NA   Tel3:NA   Fax:NA",
+            "TELEFONO": "3520932",
             "CORREO": "contactus@destinonomada.com",
             "URL": "www.destinonomada.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -1246,11 +1318,12 @@
             "NOMBRE": "HOSTAL VILLACANDELARIA",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 3 12 D 93",
-            "TELEFONO": "Tel1:2842348   Tel2:3044739457   Tel3:NA   Fax:NA",
+            "TELEFONO": "2842348",
             "CORREO": "villa.candelaria@hotmail.com - info@villacandelariahostel.com",
             "URL": "www.villacandelariahostel.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -1263,11 +1336,12 @@
             "NOMBRE": "CASA HOTEL BOYAC\u00c1 REAL",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 15 44 44",
-            "TELEFONO": "Tel1:4722421   Tel2:2458982   Tel3:32041555082   Fax:NA",
+            "TELEFONO": "4722421",
             "CORREO": "casahotelboyacareal@hotmail.com",
             "URL": "www.hotelboyacareal.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -1280,11 +1354,12 @@
             "NOMBRE": "APARTA ESTUDIOS CAMPIN INN",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 24 61 D 37",
-            "TELEFONO": "Tel1:2480957   Tel2:2128659   Tel3:2482678   Fax:NA",
+            "TELEFONO": "2480957",
             "CORREO": "apartaestudioselcampin@gmail.com",
             "URL": "www.hotelbogotainn.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -1297,11 +1372,12 @@
             "NOMBRE": "USAQU\u00c9N ART SUITES",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 5 117 07",
-            "TELEFONO": "Tel1:2142029   Tel2:NA   Tel3:NA   Fax:NA",
+            "TELEFONO": "2142029",
             "CORREO": "usaquen@104artsuites.com",
             "URL": "NA",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "M\u00e1s de $ 150.001",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -1314,11 +1390,12 @@
             "NOMBRE": "HOTEL EJECUTIVO EMBAJADOR - HOTEL EJECUTIVO EMBAJADA I",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 24 B 44 A 22",
-            "TELEFONO": "Tel1:3682218   Tel2:2687519   Tel3:NA   Fax:2687519",
+            "TELEFONO": "3682218",
             "CORREO": "hotel-ejecutivo-embajada@hotmail.com",
             "URL": "www.hotelesejecutivobogota.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -1331,11 +1408,12 @@
             "NOMBRE": "EL MARQUES DE SAN RAFAEL",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 67 12 A 76",
-            "TELEFONO": "Tel1:2670138   Tel2:3002571460   Tel3:NA   Fax:NA",
+            "TELEFONO": "2670138",
             "CORREO": "dianacruz104@hotmail.com",
             "URL": "NA",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -1348,11 +1426,12 @@
             "NOMBRE": "BALMORAL CASA Y HOSTAL",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 17 A 125 10",
-            "TELEFONO": "Tel1:5234443   Tel2:5234442   Tel3:6207318   Fax:6207318",
+            "TELEFONO": "5234443",
             "CORREO": "casabalmoral@yahoo.es",
             "URL": "www.casabalmoral.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -1365,11 +1444,12 @@
             "NOMBRE": "HOLIDAY INN EXPRESS HOTEL",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 94 11 A 12",
-            "TELEFONO": "Tel1:6510000   Tel2:NA   Tel3:NA   Fax:6510000",
+            "TELEFONO": "6510000",
             "CORREO": "reservas@oxohotel.com",
             "URL": "www.hiexpress.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 150.001 y $ 350.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -1382,11 +1462,12 @@
             "NOMBRE": "HOTEL EMPORIUM",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 33 25 A 04",
-            "TELEFONO": "Tel1:2680235   Tel2:NA   Tel3:NA   Fax:NA",
+            "TELEFONO": "2680235",
             "CORREO": "reservas.hotelemporiumbogota@gmail.com",
             "URL": "www.hotelemporiumbogota.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -1399,11 +1480,12 @@
             "NOMBRE": "CROWNE PLAZA SUITES TEQUENDAMA BOGOT\u00c1 (SUITES TEQUENDAMA)",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 10 27 51 INT 150",
-            "TELEFONO": "Tel1:3813700   Tel2:3820300   Tel3:3822930   Fax:NA",
+            "TELEFONO": "3813700",
             "CORREO": "reservas@sht.com.co - recepcion.ast@sht.comc.o",
             "URL": "www.sht.com.co",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -1416,11 +1498,12 @@
             "NOMBRE": "HOTEL CASA GALERIA",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 2 12 B 62",
-            "TELEFONO": "Tel1:3425225   Tel2:3153362999   Tel3:NA   Fax:NA",
+            "TELEFONO": "3425225",
             "CORREO": "info@hotelcasagaleria.com",
             "URL": "www.hotelcasagaleria.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 150.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -1433,11 +1516,12 @@
             "NOMBRE": "HOTEL CASA DECO",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 12 C 2 36",
-            "TELEFONO": "Tel1:2837032   Tel2:2827640   Tel3:2837262   Fax:2838166",
+            "TELEFONO": "2837032",
             "CORREO": "reservas@hotelcasadeco.com",
             "URL": "www.hotelcasadeco.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 150.001 y $ 350.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -1450,11 +1534,12 @@
             "NOMBRE": "HOTEL MARRIOT",
             "DESCRIPCION": "NA",
             "DIRECCION": "AC 26 69 B 53",
-            "TELEFONO": "Tel1:4851111   Tel2:NA   Tel3:NA   Fax:4851112",
+            "TELEFONO": "4851111",
             "CORREO": "reservas@marriot.com",
             "URL": "www.marriott.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "M\u00e1s de $ 350.001",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -1467,11 +1552,12 @@
             "NOMBRE": "SUITES 109",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 109 A 17 52",
-            "TELEFONO": "Tel1:5200602   Tel2:NA   Tel3:NA   Fax:NA",
+            "TELEFONO": "5200602",
             "CORREO": "administracion@suites109.com",
             "URL": "www.suites109.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "M\u00e1s de $ 150.001",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -1484,11 +1570,12 @@
             "NOMBRE": "HOTEL NORMANDIA (APARTASUITENORMANDIA)",
             "DESCRIPCION": "NA",
             "DIRECCION": "AV BOYAC\u00c1 51 08",
-            "TELEFONO": "Tel1:4048181   Tel2:NA   Tel3:NA   Fax:NA",
+            "TELEFONO": "4048181",
             "CORREO": "hotelnormandia15@hotmail.com",
             "URL": "www.apartasuitenormandia.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -1501,11 +1588,12 @@
             "NOMBRE": "ZUETANA MALIBU",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 119 50 15",
-            "TELEFONO": "Tel1:7035086   Tel2:8052052   Tel3:NA   Fax:NA",
+            "TELEFONO": "7035086",
             "CORREO": "fmunera@zuetana.com",
             "URL": "www.zuetana.co",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -1518,11 +1606,12 @@
             "NOMBRE": "APARTAESTUDIOS KAFIR",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 25 B 36 28",
-            "TELEFONO": "Tel1:2447143   Tel2:2447143   Tel3:NA   Fax:NA",
+            "TELEFONO": "2447143",
             "CORREO": "info@alojamientoenbogota.com",
             "URL": "www.alojamientoenbogota.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 150.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -1535,11 +1624,12 @@
             "NOMBRE": "HOTEL BOGOT\u00c1 VIRREY",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 15 87 06",
-            "TELEFONO": "Tel1:2568826   Tel2:2183949   Tel3:NA   Fax:2364570",
+            "TELEFONO": "2568826",
             "CORREO": "reservas@hotelbogotavirrey.com",
             "URL": "www.hotelbogotavirrey.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 150.001 y $ 350.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -1552,11 +1642,12 @@
             "NOMBRE": "HOTEL LAGUNA 24",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 24 B 44 A 59",
-            "TELEFONO": "Tel1:2688163   Tel2:5705550   Tel3:NA   Fax:2447303",
+            "TELEFONO": "2688163",
             "CORREO": "hotellaguna24@yahoo.com",
             "URL": "www.hotelescercaalaembajada.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -1569,11 +1660,12 @@
             "NOMBRE": "HOTEL MS OCEANIA",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 13 24 A 48",
-            "TELEFONO": "Tel1:2842100   Tel2:NA   Tel3:NA   Fax:NA",
+            "TELEFONO": "2842100",
             "CORREO": "reservasoceania@hotelesms.com",
             "URL": "www.hotelesms.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -1586,11 +1678,12 @@
             "NOMBRE": "CITE HOTEL",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 15 88 10",
-            "TELEFONO": "Tel1:6467777   Tel2:NA   Tel3:NA   Fax:2360769",
+            "TELEFONO": "6467777",
             "CORREO": "reservas@citehotel.com",
             "URL": "www.citehotel.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "M\u00e1s de $ 350.001",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -1603,11 +1696,12 @@
             "NOMBRE": "CASA AURA MAR\u00cdA",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 39 25 81",
-            "TELEFONO": "Tel1:3680448   Tel2:3112100803   Tel3:NA   Fax:NA",
+            "TELEFONO": "3680448",
             "CORREO": "hotel.casaauramaria@live.com",
             "URL": "NA",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         }
     ],
@@ -1622,11 +1716,12 @@
             "NOMBRE": "HOSPEDAJE CASA ARANA",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 66 12 06",
-            "TELEFONO": "Tel1:2906464   Tel2:NA   Tel3:NA   Fax:NA",
+            "TELEFONO": "2906464",
             "CORREO": "casaarana@hotmail.com",
             "URL": "NA",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -1639,11 +1734,12 @@
             "NOMBRE": "HOTEL CANDILEJAS",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 68 17 28",
-            "TELEFONO": "Tel1:6061236   Tel2:2357329   Tel3:3144336865   Fax:3132860205",
+            "TELEFONO": "6061236",
             "CORREO": "angelinav68@hotmail.com",
             "URL": "NA",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -1656,11 +1752,12 @@
             "NOMBRE": "HOTEL BOYAC\u00c1 LA 24",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 24 68 35",
-            "TELEFONO": "Tel1:2502241   Tel2:2315994   Tel3:NA   Fax:NA",
+            "TELEFONO": "2502241",
             "CORREO": "NA",
             "URL": "NA",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -1673,11 +1770,12 @@
             "NOMBRE": "APARTAHOTEL LAGOS DEL NORTE",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 23 67 20",
-            "TELEFONO": "Tel1:2491610   Tel2:2491637   Tel3:NA   Fax:NA",
+            "TELEFONO": "2491610",
             "CORREO": "hotel.lagos.del.norte@gmail.com",
             "URL": "NA",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -1690,11 +1788,12 @@
             "NOMBRE": "HOSTAL MONSERRAT",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 24 82 43",
-            "TELEFONO": "Tel1:6168160   Tel2:NA   Tel3:NA   Fax:6101328",
+            "TELEFONO": "6168160",
             "CORREO": "alpesbogota@hotmail.com - julianleus@hotmail.com",
             "URL": "NA",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -1707,11 +1806,12 @@
             "NOMBRE": "HOTEL LORD",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 63 14 62",
-            "TELEFONO": "Tel1:2550530   Tel2:NA   Tel3:NA   Fax:3107870",
+            "TELEFONO": "2550530",
             "CORREO": "hotel_lord@yahoo.com.ar - info@hotel-lord.com",
             "URL": "www.hotel-lord.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -1724,11 +1824,12 @@
             "NOMBRE": "SUITE B\u00c1SICAS INN - SUITES EJECUTIVAS ECON\u00d3MICAS",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 63 D 22 44",
-            "TELEFONO": "Tel1:3125956   Tel2:2552313   Tel3:2482522   Fax:NA",
+            "TELEFONO": "3125956",
             "CORREO": "basicasinn@gmail.com",
             "URL": "www.hotelbogotainn.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -1741,11 +1842,12 @@
             "NOMBRE": "SUITTES INN TUR\u00cdSTICAS CALLE 63",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 63 28 62",
-            "TELEFONO": "Tel1:2116901   Tel2:2490387   Tel3:2489640   Fax:NA",
+            "TELEFONO": "2116901",
             "CORREO": "turisticas63@hotelbogotainn.com",
             "URL": "www.hotelbogotainn.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -1758,11 +1860,12 @@
             "NOMBRE": "APARTAMENTOS CEDROS 63 INN  - APARTAMENTO LOS CEDROS",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 63 C 21 46",
-            "TELEFONO": "Tel1:3453963   Tel2:3452603   Tel3:5486174   Fax:NA",
+            "TELEFONO": "3453963",
             "CORREO": "apartamentoscedro@gmail.com",
             "URL": "www.hotelbogotainn.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -1775,11 +1878,12 @@
             "NOMBRE": "SUITES INN ECON\u00d3MICAS CALLE 63",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 63 B 21 30",
-            "TELEFONO": "Tel1:2492160   Tel2:2492077   Tel3:2492289   Fax:2358229",
+            "TELEFONO": "2492160",
             "CORREO": "economicas63@gmail.com",
             "URL": "www.hotelbogotainn.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -1792,11 +1896,12 @@
             "NOMBRE": "HOTEL 63 INN EJECUTIVO",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 63 D 21 26",
-            "TELEFONO": "Tel1:2116459   Tel2:7495314   Tel3:NA   Fax:NA",
+            "TELEFONO": "2116459",
             "CORREO": "hotel_63in_ejecutivo@hotmail.com",
             "URL": "www.hotelesejecutivobogota.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -1809,11 +1914,12 @@
             "NOMBRE": "HOTEL ELEGANT SUIT NORMANDIA",
             "DESCRIPCION": "NA",
             "DIRECCION": "AV BOYAC\u00c1 51 62",
-            "TELEFONO": "Tel1:4838338   Tel2:2630987   Tel3:NA   Fax:4838338",
+            "TELEFONO": "4838338",
             "CORREO": "hotelelegantsuitenormandia@hotmail.com",
             "URL": "www.hotelelegantsuite.net",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         },
         {
@@ -1826,11 +1932,12 @@
             "NOMBRE": "HOTEL DEL PUENTE BOGOT\u00c1",
             "DESCRIPCION": "NA",
             "DIRECCION": "AV BOYAC\u00c1 48 A 04\/02",
-            "TELEFONO": "Tel1:2958228   Tel2:2958208   Tel3:NA   Fax:4100075",
+            "TELEFONO": "2958228",
             "CORREO": "hoteldelpuentebogota@hotmail.com",
             "URL": "www.hoteldelpuentebogota.com",
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
+            "HORARIO": "NA",
             "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
         }
     ]
