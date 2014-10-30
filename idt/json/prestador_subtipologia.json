@@ -1,12 +1,7 @@
 {
     "2": [
         {
-            "CODIGO": "2",
-            "CODIGO_SUBTIPOLOGIA": "2",
-            "COD_TIPOLOGIA": "1",
-            "NOMBRE_TIPOLOGIA": "Prueba 3",
-            "CODIGO_PRESTADOR": "457",
-            "COD_ZONA": "4",
+            "CODIGO": "457",
             "NOMBRE": "prueba",
             "DESCRIPCION": "prueba2",
             "DIRECCION": "prueba2",
@@ -16,15 +11,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "prueba2",
             "HORARIO": "prueba2",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "2",
-            "CODIGO_SUBTIPOLOGIA": "2",
-            "COD_TIPOLOGIA": "1",
-            "NOMBRE_TIPOLOGIA": "Prueba 3",
-            "CODIGO_PRESTADOR": "458",
-            "COD_ZONA": "4",
+            "CODIGO": "458",
             "NOMBRE": "pruebaaaaaa",
             "DESCRIPCION": "asdfasdfasdf",
             "DIRECCION": "sdfsdf",
@@ -34,17 +24,12 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "2323",
             "HORARIO": "222",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         }
     ],
     "5": [
         {
-            "CODIGO": "5",
-            "CODIGO_SUBTIPOLOGIA": "5",
-            "COD_TIPOLOGIA": "6",
-            "NOMBRE_TIPOLOGIA": "Top 10",
-            "CODIGO_PRESTADOR": "189",
-            "COD_ZONA": "4",
+            "CODIGO": "189",
             "NOMBRE": "APARTA ESTUDIOS ANDINO LTDA",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 19 A 102 09",
@@ -54,15 +39,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 150.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "5",
-            "CODIGO_SUBTIPOLOGIA": "5",
-            "COD_TIPOLOGIA": "6",
-            "NOMBRE_TIPOLOGIA": "Top 10",
-            "CODIGO_PRESTADOR": "204",
-            "COD_ZONA": "4",
+            "CODIGO": "204",
             "NOMBRE": "APARTA ESTUDIOS CAMPIN INN",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 24 61 D 37",
@@ -72,15 +52,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "5",
-            "CODIGO_SUBTIPOLOGIA": "5",
-            "COD_TIPOLOGIA": "6",
-            "NOMBRE_TIPOLOGIA": "Top 10",
-            "CODIGO_PRESTADOR": "218",
-            "COD_ZONA": "11",
+            "CODIGO": "218",
             "NOMBRE": "APARTAESTUDIOS KAFIR",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 25 B 36 28",
@@ -90,15 +65,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 150.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "5",
-            "CODIGO_SUBTIPOLOGIA": "5",
-            "COD_TIPOLOGIA": "6",
-            "NOMBRE_TIPOLOGIA": "Top 10",
-            "CODIGO_PRESTADOR": "250",
-            "COD_ZONA": "5",
+            "CODIGO": "250",
             "NOMBRE": "AR HOTEL SALITRE SUITES  SPA CENTRO DE CONVENCIONES",
             "DESCRIPCION": "NA",
             "DIRECCION": "AK 60 22 99",
@@ -108,15 +78,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 150.001 y $ 350.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "5",
-            "CODIGO_SUBTIPOLOGIA": "5",
-            "COD_TIPOLOGIA": "6",
-            "NOMBRE_TIPOLOGIA": "Top 10",
-            "CODIGO_PRESTADOR": "316",
-            "COD_ZONA": "4",
+            "CODIGO": "316",
             "NOMBRE": "APARTAHOTEL 122 PLAZA",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 15 A 122 27",
@@ -126,15 +91,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "M\u00e1s de $ 150.001",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "5",
-            "CODIGO_SUBTIPOLOGIA": "5",
-            "COD_TIPOLOGIA": "6",
-            "NOMBRE_TIPOLOGIA": "Top 10",
-            "CODIGO_PRESTADOR": "325",
-            "COD_ZONA": "7",
+            "CODIGO": "325",
             "NOMBRE": "APARTSUITES CK",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 21 39 A 36",
@@ -144,15 +104,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 150.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "5",
-            "CODIGO_SUBTIPOLOGIA": "5",
-            "COD_TIPOLOGIA": "6",
-            "NOMBRE_TIPOLOGIA": "Top 10",
-            "CODIGO_PRESTADOR": "326",
-            "COD_ZONA": "11",
+            "CODIGO": "326",
             "NOMBRE": "BE HOTELES FERIA EXPOSICI\u00d3N",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 25 38 08",
@@ -162,15 +117,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 150.001 y $ 350.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "5",
-            "CODIGO_SUBTIPOLOGIA": "5",
-            "COD_TIPOLOGIA": "6",
-            "NOMBRE_TIPOLOGIA": "Top 10",
-            "CODIGO_PRESTADOR": "345",
-            "COD_ZONA": "4",
+            "CODIGO": "345",
             "NOMBRE": "ANTIQUE 65 HOTEL DECORACI\u00d3N",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 65 5 50",
@@ -180,15 +130,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "5",
-            "CODIGO_SUBTIPOLOGIA": "5",
-            "COD_TIPOLOGIA": "6",
-            "NOMBRE_TIPOLOGIA": "Top 10",
-            "CODIGO_PRESTADOR": "443",
-            "COD_ZONA": "5",
+            "CODIGO": "443",
             "NOMBRE": "101 PARK HOUSE",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 21 101 10",
@@ -198,15 +143,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "5",
-            "CODIGO_SUBTIPOLOGIA": "5",
-            "COD_TIPOLOGIA": "6",
-            "NOMBRE_TIPOLOGIA": "Top 10",
-            "CODIGO_PRESTADOR": "453",
-            "COD_ZONA": "4",
+            "CODIGO": "453",
             "NOMBRE": "ALPES BOGOT\u00c1 HOSTAL",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 48 93 64",
@@ -216,17 +156,12 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         }
     ],
     "6": [
         {
-            "CODIGO": "6",
-            "CODIGO_SUBTIPOLOGIA": "6",
-            "COD_TIPOLOGIA": "7",
-            "NOMBRE_TIPOLOGIA": "Museos",
-            "CODIGO_PRESTADOR": "90",
-            "COD_ZONA": "13",
+            "CODIGO": "90",
             "NOMBRE": "HOTEL LOS CAMBULOS",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 96 C 17 38",
@@ -236,15 +171,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "6",
-            "CODIGO_SUBTIPOLOGIA": "6",
-            "COD_TIPOLOGIA": "7",
-            "NOMBRE_TIPOLOGIA": "Museos",
-            "CODIGO_PRESTADOR": "91",
-            "COD_ZONA": "13",
+            "CODIGO": "91",
             "NOMBRE": "HOTEL ESCORIAL FONTIB\u00d3N EN SUCESI\u00d3N",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 17 96 C 15",
@@ -254,15 +184,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "6",
-            "CODIGO_SUBTIPOLOGIA": "6",
-            "COD_TIPOLOGIA": "7",
-            "NOMBRE_TIPOLOGIA": "Museos",
-            "CODIGO_PRESTADOR": "92",
-            "COD_ZONA": "1",
+            "CODIGO": "92",
             "NOMBRE": "CASA BLANCA 98 HOTEL",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 17 A 97 83",
@@ -272,15 +197,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "6",
-            "CODIGO_SUBTIPOLOGIA": "6",
-            "COD_TIPOLOGIA": "7",
-            "NOMBRE_TIPOLOGIA": "Museos",
-            "CODIGO_PRESTADOR": "93",
-            "COD_ZONA": "13",
+            "CODIGO": "93",
             "NOMBRE": "HOTEL FONTIB\u00d3N",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 17 97 10",
@@ -290,15 +210,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "6",
-            "CODIGO_SUBTIPOLOGIA": "6",
-            "COD_TIPOLOGIA": "7",
-            "NOMBRE_TIPOLOGIA": "Museos",
-            "CODIGO_PRESTADOR": "94",
-            "COD_ZONA": "13",
+            "CODIGO": "94",
             "NOMBRE": "HOTEL RESIDENCIA ESPA\u00d1A",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 7 23 20",
@@ -308,15 +223,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "6",
-            "CODIGO_SUBTIPOLOGIA": "6",
-            "COD_TIPOLOGIA": "7",
-            "NOMBRE_TIPOLOGIA": "Museos",
-            "CODIGO_PRESTADOR": "95",
-            "COD_ZONA": "13",
+            "CODIGO": "95",
             "NOMBRE": "HOSTAL BOGOT\u00c1 REAL",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 103 B 46 05",
@@ -326,15 +236,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "6",
-            "CODIGO_SUBTIPOLOGIA": "6",
-            "COD_TIPOLOGIA": "7",
-            "NOMBRE_TIPOLOGIA": "Museos",
-            "CODIGO_PRESTADOR": "96",
-            "COD_ZONA": "13",
+            "CODIGO": "96",
             "NOMBRE": "HOTEL DANN AV 19 - INVERSIONES SPIWAK LTDA",
             "DESCRIPCION": "NA",
             "DIRECCION": "AV 19 5 72",
@@ -344,15 +249,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "6",
-            "CODIGO_SUBTIPOLOGIA": "6",
-            "COD_TIPOLOGIA": "7",
-            "NOMBRE_TIPOLOGIA": "Museos",
-            "CODIGO_PRESTADOR": "97",
-            "COD_ZONA": "11",
+            "CODIGO": "97",
             "NOMBRE": "HOTEL FERROVIAL",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 40 22 59",
@@ -362,15 +262,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "6",
-            "CODIGO_SUBTIPOLOGIA": "6",
-            "COD_TIPOLOGIA": "7",
-            "NOMBRE_TIPOLOGIA": "Museos",
-            "CODIGO_PRESTADOR": "99",
-            "COD_ZONA": "13",
+            "CODIGO": "99",
             "NOMBRE": "NUEVO HOTEL TEUSAQUILLO",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 16 28 A 24",
@@ -380,17 +275,12 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         }
     ],
     "29": [
         {
-            "CODIGO": "29",
-            "CODIGO_SUBTIPOLOGIA": "29",
-            "COD_TIPOLOGIA": "16",
-            "NOMBRE_TIPOLOGIA": "Hoteles",
-            "CODIGO_PRESTADOR": "2",
-            "COD_ZONA": "13",
+            "CODIGO": "2",
             "NOMBRE": "HOTEL CANDILEJAS",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 68 17 28",
@@ -400,16 +290,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
-       
         {
-            "CODIGO": "29",
-            "CODIGO_SUBTIPOLOGIA": "29",
-            "COD_TIPOLOGIA": "16",
-            "NOMBRE_TIPOLOGIA": "Hoteles",
-            "CODIGO_PRESTADOR": "3",
-            "COD_ZONA": "13",
+            "CODIGO": "3",
             "NOMBRE": "HOTEL BOYAC\u00c1 LA 24",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 24 68 35",
@@ -419,15 +303,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "29",
-            "CODIGO_SUBTIPOLOGIA": "29",
-            "COD_TIPOLOGIA": "16",
-            "NOMBRE_TIPOLOGIA": "Hoteles",
-            "CODIGO_PRESTADOR": "4",
-            "COD_ZONA": "1",
+            "CODIGO": "4",
             "NOMBRE": "APARTAHOTEL LAGOS DEL NORTE",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 23 67 20",
@@ -437,15 +316,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "29",
-            "CODIGO_SUBTIPOLOGIA": "29",
-            "COD_TIPOLOGIA": "16",
-            "NOMBRE_TIPOLOGIA": "Hoteles",
-            "CODIGO_PRESTADOR": "5",
-            "COD_ZONA": "13",
+            "CODIGO": "5",
             "NOMBRE": "HOSTAL MONSERRAT",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 24 82 43",
@@ -455,15 +329,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "29",
-            "CODIGO_SUBTIPOLOGIA": "29",
-            "COD_TIPOLOGIA": "16",
-            "NOMBRE_TIPOLOGIA": "Hoteles",
-            "CODIGO_PRESTADOR": "9",
-            "COD_ZONA": "13",
+            "CODIGO": "9",
             "NOMBRE": "SUITTES INN TUR\u00cdSTICAS CALLE 63",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 63 28 62",
@@ -473,15 +342,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "29",
-            "CODIGO_SUBTIPOLOGIA": "29",
-            "COD_TIPOLOGIA": "16",
-            "NOMBRE_TIPOLOGIA": "Hoteles",
-            "CODIGO_PRESTADOR": "10",
-            "COD_ZONA": "4",
+            "CODIGO": "10",
             "NOMBRE": "APARTAMENTOS CEDROS 63 INN  - APARTAMENTO LOS CEDROS",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 63 C 21 46",
@@ -491,15 +355,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "29",
-            "CODIGO_SUBTIPOLOGIA": "29",
-            "COD_TIPOLOGIA": "16",
-            "NOMBRE_TIPOLOGIA": "Hoteles",
-            "CODIGO_PRESTADOR": "11",
-            "COD_ZONA": "13",
+            "CODIGO": "11",
             "NOMBRE": "SUITES INN ECON\u00d3MICAS CALLE 63",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 63 B 21 30",
@@ -509,15 +368,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "29",
-            "CODIGO_SUBTIPOLOGIA": "29",
-            "COD_TIPOLOGIA": "16",
-            "NOMBRE_TIPOLOGIA": "Hoteles",
-            "CODIGO_PRESTADOR": "12",
-            "COD_ZONA": "13",
+            "CODIGO": "12",
             "NOMBRE": "HOTEL 63 INN EJECUTIVO",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 63 D 21 26",
@@ -527,15 +381,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "29",
-            "CODIGO_SUBTIPOLOGIA": "29",
-            "COD_TIPOLOGIA": "16",
-            "NOMBRE_TIPOLOGIA": "Hoteles",
-            "CODIGO_PRESTADOR": "13",
-            "COD_ZONA": "13",
+            "CODIGO": "13",
             "NOMBRE": "HOTEL ELEGANT SUIT NORMANDIA",
             "DESCRIPCION": "NA",
             "DIRECCION": "AV BOYAC\u00c1 51 62",
@@ -545,15 +394,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "29",
-            "CODIGO_SUBTIPOLOGIA": "29",
-            "COD_TIPOLOGIA": "16",
-            "NOMBRE_TIPOLOGIA": "Hoteles",
-            "CODIGO_PRESTADOR": "15",
-            "COD_ZONA": "13",
+            "CODIGO": "15",
             "NOMBRE": "HOTEL SAN JOS\u00c9 BAVARIA 1",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 12 71 D 60",
@@ -563,15 +407,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "29",
-            "CODIGO_SUBTIPOLOGIA": "29",
-            "COD_TIPOLOGIA": "16",
-            "NOMBRE_TIPOLOGIA": "Hoteles",
-            "CODIGO_PRESTADOR": "16",
-            "COD_ZONA": "4",
+            "CODIGO": "16",
             "NOMBRE": "HOTEL BOGOT\u00c1 ROYAL",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 8 A 99 55",
@@ -581,15 +420,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 150.001 y $ 350.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "29",
-            "CODIGO_SUBTIPOLOGIA": "29",
-            "COD_TIPOLOGIA": "16",
-            "NOMBRE_TIPOLOGIA": "Hoteles",
-            "CODIGO_PRESTADOR": "17",
-            "COD_ZONA": "13",
+            "CODIGO": "17",
             "NOMBRE": "LA MANSI\u00d3N HOTEL",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 17 102 47\/51",
@@ -599,15 +433,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 150.001 y $ 350.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "29",
-            "CODIGO_SUBTIPOLOGIA": "29",
-            "COD_TIPOLOGIA": "16",
-            "NOMBRE_TIPOLOGIA": "Hoteles",
-            "CODIGO_PRESTADOR": "18",
-            "COD_ZONA": "2",
+            "CODIGO": "18",
             "NOMBRE": "RADISSON ROYAL BOGOT\u00c1 HOTEL",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 113 7 65",
@@ -617,15 +446,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "M\u00e1s de $ 350.001",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "29",
-            "CODIGO_SUBTIPOLOGIA": "29",
-            "COD_TIPOLOGIA": "16",
-            "NOMBRE_TIPOLOGIA": "Hoteles",
-            "CODIGO_PRESTADOR": "19",
-            "COD_ZONA": "13",
+            "CODIGO": "19",
             "NOMBRE": "HOTEL CHARLESTON BOGOT\u00c1",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 13 85 46",
@@ -635,15 +459,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "M\u00e1s de $ 350.001",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "29",
-            "CODIGO_SUBTIPOLOGIA": "29",
-            "COD_TIPOLOGIA": "16",
-            "NOMBRE_TIPOLOGIA": "Hoteles",
-            "CODIGO_PRESTADOR": "20",
-            "COD_ZONA": "13",
+            "CODIGO": "20",
             "NOMBRE": "HOTEL CASONA DEL PATIO",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 8 69 24",
@@ -653,15 +472,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "29",
-            "CODIGO_SUBTIPOLOGIA": "29",
-            "COD_TIPOLOGIA": "16",
-            "NOMBRE_TIPOLOGIA": "Hoteles",
-            "CODIGO_PRESTADOR": "21",
-            "COD_ZONA": "13",
+            "CODIGO": "21",
             "NOMBRE": "HOTEL BOGOT\u00c1 REGENCY (REGENCY SUITES)",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 7 127 21",
@@ -671,15 +485,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 150.001 y $ 350.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "29",
-            "CODIGO_SUBTIPOLOGIA": "29",
-            "COD_TIPOLOGIA": "16",
-            "NOMBRE_TIPOLOGIA": "Hoteles",
-            "CODIGO_PRESTADOR": "22",
-            "COD_ZONA": "13",
+            "CODIGO": "22",
             "NOMBRE": "HOTEL EGINA",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 14 A 119 16",
@@ -689,15 +498,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 150.001 y $ 350.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "29",
-            "CODIGO_SUBTIPOLOGIA": "29",
-            "COD_TIPOLOGIA": "16",
-            "NOMBRE_TIPOLOGIA": "Hoteles",
-            "CODIGO_PRESTADOR": "23",
-            "COD_ZONA": "13",
+            "CODIGO": "23",
             "NOMBRE": "NUEVO HOTEL RINC\u00d3N SANTA BARBARA",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 126 7 A 19",
@@ -707,15 +511,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 150.001 y $ 350.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "29",
-            "CODIGO_SUBTIPOLOGIA": "29",
-            "COD_TIPOLOGIA": "16",
-            "NOMBRE_TIPOLOGIA": "Hoteles",
-            "CODIGO_PRESTADOR": "24",
-            "COD_ZONA": "13",
+            "CODIGO": "24",
             "NOMBRE": "CASABLANCA 121",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 121 7 A 66",
@@ -725,15 +524,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 150.001 y $ 350.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "29",
-            "CODIGO_SUBTIPOLOGIA": "29",
-            "COD_TIPOLOGIA": "16",
-            "NOMBRE_TIPOLOGIA": "Hoteles",
-            "CODIGO_PRESTADOR": "25",
-            "COD_ZONA": "2",
+            "CODIGO": "25",
             "NOMBRE": "HOTEL HILL HOUSE",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 120 A 6 54",
@@ -743,15 +537,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "M\u00e1s de $ 150.001",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "29",
-            "CODIGO_SUBTIPOLOGIA": "29",
-            "COD_TIPOLOGIA": "16",
-            "NOMBRE_TIPOLOGIA": "Hoteles",
-            "CODIGO_PRESTADOR": "50",
-            "COD_ZONA": "13",
+            "CODIGO": "50",
             "NOMBRE": "HOTEL BH LA QUINTA",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 5 74 52",
@@ -761,15 +550,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 150.001 y $ 350.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "29",
-            "CODIGO_SUBTIPOLOGIA": "29",
-            "COD_TIPOLOGIA": "16",
-            "NOMBRE_TIPOLOGIA": "Hoteles",
-            "CODIGO_PRESTADOR": "51",
-            "COD_ZONA": "13",
+            "CODIGO": "51",
             "NOMBRE": "CELEBRITIES SUITES - MODERNO PARK SA",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 74 10 33",
@@ -779,15 +563,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 150.001 y $ 350.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "29",
-            "CODIGO_SUBTIPOLOGIA": "29",
-            "COD_TIPOLOGIA": "16",
-            "NOMBRE_TIPOLOGIA": "Hoteles",
-            "CODIGO_PRESTADOR": "52",
-            "COD_ZONA": "5",
+            "CODIGO": "52",
             "NOMBRE": "HOTEL CASA FALCON",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 69 11 A 64",
@@ -797,15 +576,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "29",
-            "CODIGO_SUBTIPOLOGIA": "29",
-            "COD_TIPOLOGIA": "16",
-            "NOMBRE_TIPOLOGIA": "Hoteles",
-            "CODIGO_PRESTADOR": "53",
-            "COD_ZONA": "13",
+            "CODIGO": "53",
             "NOMBRE": "APARTAMENTOS LAGO 76",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 15 76 15",
@@ -815,15 +589,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 150.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "29",
-            "CODIGO_SUBTIPOLOGIA": "29",
-            "COD_TIPOLOGIA": "16",
-            "NOMBRE_TIPOLOGIA": "Hoteles",
-            "CODIGO_PRESTADOR": "54",
-            "COD_ZONA": "13",
+            "CODIGO": "54",
             "NOMBRE": "HOTEL INTER BOGOT\u00c1",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 3 20 17",
@@ -833,15 +602,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "29",
-            "CODIGO_SUBTIPOLOGIA": "29",
-            "COD_TIPOLOGIA": "16",
-            "NOMBRE_TIPOLOGIA": "Hoteles",
-            "CODIGO_PRESTADOR": "58",
-            "COD_ZONA": "13",
+            "CODIGO": "58",
             "NOMBRE": "HOTEL SOFITEL BOGOT\u00c1 VICTORIA REGIA - PROMOTORA Y OPERADORA DE HOTELES PROMOTEL",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 13 85 80",
@@ -851,15 +615,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "M\u00e1s de $ 350.001",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "29",
-            "CODIGO_SUBTIPOLOGIA": "29",
-            "COD_TIPOLOGIA": "16",
-            "NOMBRE_TIPOLOGIA": "Hoteles",
-            "CODIGO_PRESTADOR": "59",
-            "COD_ZONA": "13",
+            "CODIGO": "59",
             "NOMBRE": "HOTEL ESTRELLA LA 23",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 23 7 86",
@@ -869,15 +628,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 150.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "29",
-            "CODIGO_SUBTIPOLOGIA": "29",
-            "COD_TIPOLOGIA": "16",
-            "NOMBRE_TIPOLOGIA": "Hoteles",
-            "CODIGO_PRESTADOR": "70",
-            "COD_ZONA": "1",
+            "CODIGO": "70",
             "NOMBRE": "HOTEL LIDO",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 11 9 45",
@@ -887,15 +641,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "29",
-            "CODIGO_SUBTIPOLOGIA": "29",
-            "COD_TIPOLOGIA": "16",
-            "NOMBRE_TIPOLOGIA": "Hoteles",
-            "CODIGO_PRESTADOR": "72",
-            "COD_ZONA": "1",
+            "CODIGO": "72",
             "NOMBRE": "HOTEL DE LA OPERA - INVERSIONES LA OPERA S A",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 10 5 72",
@@ -905,15 +654,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 150.001 y $ 350.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "29",
-            "CODIGO_SUBTIPOLOGIA": "29",
-            "COD_TIPOLOGIA": "16",
-            "NOMBRE_TIPOLOGIA": "Hoteles",
-            "CODIGO_PRESTADOR": "74",
-            "COD_ZONA": "1",
+            "CODIGO": "74",
             "NOMBRE": "POSADA ANANDA MAYI",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 9 2 81",
@@ -923,15 +667,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "29",
-            "CODIGO_SUBTIPOLOGIA": "29",
-            "COD_TIPOLOGIA": "16",
-            "NOMBRE_TIPOLOGIA": "Hoteles",
-            "CODIGO_PRESTADOR": "75",
-            "COD_ZONA": "1",
+            "CODIGO": "75",
             "NOMBRE": "HOTEL AVENIDA JIM\u00c9NEZ",
             "DESCRIPCION": "NA",
             "DIRECCION": "AV JIM\u00c9NEZ 4 69",
@@ -941,15 +680,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "29",
-            "CODIGO_SUBTIPOLOGIA": "29",
-            "COD_TIPOLOGIA": "16",
-            "NOMBRE_TIPOLOGIA": "Hoteles",
-            "CODIGO_PRESTADOR": "76",
-            "COD_ZONA": "1",
+            "CODIGO": "76",
             "NOMBRE": "HOTEL AMBAL\u00c1 BOGOT\u00c1 COLONIAL",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 5 12 B 46",
@@ -959,15 +693,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "29",
-            "CODIGO_SUBTIPOLOGIA": "29",
-            "COD_TIPOLOGIA": "16",
-            "NOMBRE_TIPOLOGIA": "Hoteles",
-            "CODIGO_PRESTADOR": "77",
-            "COD_ZONA": "1",
+            "CODIGO": "77",
             "NOMBRE": "HOTEL INTERNACIONAL",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 5 12 C 45",
@@ -977,15 +706,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "29",
-            "CODIGO_SUBTIPOLOGIA": "29",
-            "COD_TIPOLOGIA": "16",
-            "NOMBRE_TIPOLOGIA": "Hoteles",
-            "CODIGO_PRESTADOR": "78",
-            "COD_ZONA": "1",
+            "CODIGO": "78",
             "NOMBRE": "HOSTAL SUE CANDELARIA",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 3 12 C 18",
@@ -995,15 +719,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "29",
-            "CODIGO_SUBTIPOLOGIA": "29",
-            "COD_TIPOLOGIA": "16",
-            "NOMBRE_TIPOLOGIA": "Hoteles",
-            "CODIGO_PRESTADOR": "79",
-            "COD_ZONA": "1",
+            "CODIGO": "79",
             "NOMBRE": "HOTEL DANN COLONIAL",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 12 C 4 21",
@@ -1013,15 +732,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "29",
-            "CODIGO_SUBTIPOLOGIA": "29",
-            "COD_TIPOLOGIA": "16",
-            "NOMBRE_TIPOLOGIA": "Hoteles",
-            "CODIGO_PRESTADOR": "80",
-            "COD_ZONA": "1",
+            "CODIGO": "80",
             "NOMBRE": "HOTEL EL DORADO",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 4 12 D 02",
@@ -1031,15 +745,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "29",
-            "CODIGO_SUBTIPOLOGIA": "29",
-            "COD_TIPOLOGIA": "16",
-            "NOMBRE_TIPOLOGIA": "Hoteles",
-            "CODIGO_PRESTADOR": "81",
-            "COD_ZONA": "1",
+            "CODIGO": "81",
             "NOMBRE": "HOSTAL SUE E.U.",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 12 F 2 55",
@@ -1049,15 +758,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "29",
-            "CODIGO_SUBTIPOLOGIA": "29",
-            "COD_TIPOLOGIA": "16",
-            "NOMBRE_TIPOLOGIA": "Hoteles",
-            "CODIGO_PRESTADOR": "100",
-            "COD_ZONA": "13",
+            "CODIGO": "100",
             "NOMBRE": "HOSTAL DE FEDERMAN",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 38 56 38",
@@ -1067,15 +771,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "29",
-            "CODIGO_SUBTIPOLOGIA": "29",
-            "COD_TIPOLOGIA": "16",
-            "NOMBRE_TIPOLOGIA": "Hoteles",
-            "CODIGO_PRESTADOR": "101",
-            "COD_ZONA": "13",
+            "CODIGO": "101",
             "NOMBRE": "APARTAMENTOS GALERIAS 52",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 30 52 38",
@@ -1085,15 +784,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 150.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "29",
-            "CODIGO_SUBTIPOLOGIA": "29",
-            "COD_TIPOLOGIA": "16",
-            "NOMBRE_TIPOLOGIA": "Hoteles",
-            "CODIGO_PRESTADOR": "102",
-            "COD_ZONA": "7",
+            "CODIGO": "102",
             "NOMBRE": "HOTEL EMBAJADOR",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 37 18 A 49",
@@ -1103,15 +797,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "29",
-            "CODIGO_SUBTIPOLOGIA": "29",
-            "COD_TIPOLOGIA": "16",
-            "NOMBRE_TIPOLOGIA": "Hoteles",
-            "CODIGO_PRESTADOR": "103",
-            "COD_ZONA": "7",
+            "CODIGO": "103",
             "NOMBRE": "HOTEL SUAMOX",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 38 16 07",
@@ -1121,15 +810,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "29",
-            "CODIGO_SUBTIPOLOGIA": "29",
-            "COD_TIPOLOGIA": "16",
-            "NOMBRE_TIPOLOGIA": "Hoteles",
-            "CODIGO_PRESTADOR": "104",
-            "COD_ZONA": "6",
+            "CODIGO": "104",
             "NOMBRE": "HOTEL INNOVA MASTER CENTRO INTERNACIONAL",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 34 7 87",
@@ -1139,15 +823,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "29",
-            "CODIGO_SUBTIPOLOGIA": "29",
-            "COD_TIPOLOGIA": "16",
-            "NOMBRE_TIPOLOGIA": "Hoteles",
-            "CODIGO_PRESTADOR": "105",
-            "COD_ZONA": "13",
+            "CODIGO": "105",
             "NOMBRE": "HOTEL VILLA KARINA",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 30 17 47",
@@ -1157,15 +836,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "29",
-            "CODIGO_SUBTIPOLOGIA": "29",
-            "COD_TIPOLOGIA": "16",
-            "NOMBRE_TIPOLOGIA": "Hoteles",
-            "CODIGO_PRESTADOR": "106",
-            "COD_ZONA": "7",
+            "CODIGO": "106",
             "NOMBRE": "HOTEL CAVIAR",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 19 39 A 18",
@@ -1175,15 +849,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "29",
-            "CODIGO_SUBTIPOLOGIA": "29",
-            "COD_TIPOLOGIA": "16",
-            "NOMBRE_TIPOLOGIA": "Hoteles",
-            "CODIGO_PRESTADOR": "107",
-            "COD_ZONA": "7",
+            "CODIGO": "107",
             "NOMBRE": "CASA KOLPING BOGOT\u00c1",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 16 35 41",
@@ -1193,15 +862,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "29",
-            "CODIGO_SUBTIPOLOGIA": "29",
-            "COD_TIPOLOGIA": "16",
-            "NOMBRE_TIPOLOGIA": "Hoteles",
-            "CODIGO_PRESTADOR": "108",
-            "COD_ZONA": "11",
+            "CODIGO": "108",
             "NOMBRE": "HOTEL AMERICAN DREAM AND EVENTS",
             "DESCRIPCION": "NA",
             "DIRECCION": "AV 40 25 28",
@@ -1211,15 +875,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "29",
-            "CODIGO_SUBTIPOLOGIA": "29",
-            "COD_TIPOLOGIA": "16",
-            "NOMBRE_TIPOLOGIA": "Hoteles",
-            "CODIGO_PRESTADOR": "109",
-            "COD_ZONA": "11",
+            "CODIGO": "109",
             "NOMBRE": "HOTEL COLOMBIANS SUITE INTERNATIONAL",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 43 A 24 C 06",
@@ -1229,17 +888,12 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         }
     ],
     "31": [
         {
-            "CODIGO": "31",
-            "CODIGO_SUBTIPOLOGIA": "31",
-            "COD_TIPOLOGIA": "16",
-            "NOMBRE_TIPOLOGIA": "Apartahoteles",
-            "CODIGO_PRESTADOR": "413",
-            "COD_ZONA": "11",
+            "CODIGO": "413",
             "NOMBRE": "prueba prestador22",
             "DESCRIPCION": "uuuuuuuuuerererer",
             "DIRECCION": "dir",
@@ -1249,17 +903,12 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "3242345",
             "HORARIO": "",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         }
     ],
     "56": [
         {
-            "CODIGO": "56",
-            "CODIGO_SUBTIPOLOGIA": "56",
-            "COD_TIPOLOGIA": "25",
-            "NOMBRE_TIPOLOGIA": "SITP",
-            "CODIGO_PRESTADOR": "443",
-            "COD_ZONA": "5",
+            "CODIGO": "443",
             "NOMBRE": "101 PARK HOUSE",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 21 101 10",
@@ -1269,36 +918,12 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         }
     ],
-    "67": [
-        {
-            "CODIGO": "67",
-            "CODIGO_SUBTIPOLOGIA": "67",
-            "COD_TIPOLOGIA": "3",
-            "NOMBRE_TIPOLOGIA": "PRUEBA1",
-            "CODIGO_PRESTADOR": "200",
-            "COD_ZONA": "13",
-            "NOMBRE": "PRUEBA1 TOUR BOGOTÁ",
-            "DESCRIPCION": "NA",
-            "DIRECCION": "CL 108 16 05",
-            "TELEFONO": "Tel1:6370319   Tel2:NA   Tel3:NA   Fax:NA",
-            "CORREO": "suites108@hotmail.com",
-            "URL": "www.suites108.com",
-            "UBICACION": null,
-            "PRECIO_PROMEDIO": "M\u00e1s de $ 150.001",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
-        }
-         ],
     "68": [
         {
-            "CODIGO": "68",
-            "CODIGO_SUBTIPOLOGIA": "68",
-            "COD_TIPOLOGIA": "3",
-            "NOMBRE_TIPOLOGIA": "Atracciones Gratuitas",
-            "CODIGO_PRESTADOR": "200",
-            "COD_ZONA": "13",
+            "CODIGO": "200",
             "NOMBRE": "HMG SUITES 108",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 108 16 05",
@@ -1308,15 +933,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "M\u00e1s de $ 150.001",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "68",
-            "CODIGO_SUBTIPOLOGIA": "68",
-            "COD_TIPOLOGIA": "3",
-            "NOMBRE_TIPOLOGIA": "Atracciones Gratuitas",
-            "CODIGO_PRESTADOR": "201",
-            "COD_ZONA": "1",
+            "CODIGO": "201",
             "NOMBRE": "DESTINO NOMADA HOSTEL",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 11 00 38",
@@ -1326,15 +946,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "68",
-            "CODIGO_SUBTIPOLOGIA": "68",
-            "COD_TIPOLOGIA": "3",
-            "NOMBRE_TIPOLOGIA": "Atracciones Gratuitas",
-            "CODIGO_PRESTADOR": "202",
-            "COD_ZONA": "1",
+            "CODIGO": "202",
             "NOMBRE": "HOSTAL VILLACANDELARIA",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 3 12 D 93",
@@ -1344,15 +959,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "68",
-            "CODIGO_SUBTIPOLOGIA": "68",
-            "COD_TIPOLOGIA": "3",
-            "NOMBRE_TIPOLOGIA": "Atracciones Gratuitas",
-            "CODIGO_PRESTADOR": "203",
-            "COD_ZONA": "13",
+            "CODIGO": "203",
             "NOMBRE": "CASA HOTEL BOYAC\u00c1 REAL",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 15 44 44",
@@ -1362,15 +972,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "68",
-            "CODIGO_SUBTIPOLOGIA": "68",
-            "COD_TIPOLOGIA": "3",
-            "NOMBRE_TIPOLOGIA": "Atracciones Gratuitas",
-            "CODIGO_PRESTADOR": "204",
-            "COD_ZONA": "4",
+            "CODIGO": "204",
             "NOMBRE": "APARTA ESTUDIOS CAMPIN INN",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 24 61 D 37",
@@ -1380,15 +985,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "68",
-            "CODIGO_SUBTIPOLOGIA": "68",
-            "COD_TIPOLOGIA": "3",
-            "NOMBRE_TIPOLOGIA": "Atracciones Gratuitas",
-            "CODIGO_PRESTADOR": "205",
-            "COD_ZONA": "2",
+            "CODIGO": "205",
             "NOMBRE": "USAQU\u00c9N ART SUITES",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 5 117 07",
@@ -1398,15 +998,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "M\u00e1s de $ 150.001",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "68",
-            "CODIGO_SUBTIPOLOGIA": "68",
-            "COD_TIPOLOGIA": "3",
-            "NOMBRE_TIPOLOGIA": "Atracciones Gratuitas",
-            "CODIGO_PRESTADOR": "206",
-            "COD_ZONA": "11",
+            "CODIGO": "206",
             "NOMBRE": "HOTEL EJECUTIVO EMBAJADOR - HOTEL EJECUTIVO EMBAJADA I",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 24 B 44 A 22",
@@ -1416,15 +1011,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "68",
-            "CODIGO_SUBTIPOLOGIA": "68",
-            "COD_TIPOLOGIA": "3",
-            "NOMBRE_TIPOLOGIA": "Atracciones Gratuitas",
-            "CODIGO_PRESTADOR": "207",
-            "COD_ZONA": "13",
+            "CODIGO": "207",
             "NOMBRE": "EL MARQUES DE SAN RAFAEL",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 67 12 A 76",
@@ -1434,15 +1024,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "68",
-            "CODIGO_SUBTIPOLOGIA": "68",
-            "COD_TIPOLOGIA": "3",
-            "NOMBRE_TIPOLOGIA": "Atracciones Gratuitas",
-            "CODIGO_PRESTADOR": "208",
-            "COD_ZONA": "13",
+            "CODIGO": "208",
             "NOMBRE": "BALMORAL CASA Y HOSTAL",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 17 A 125 10",
@@ -1452,15 +1037,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "68",
-            "CODIGO_SUBTIPOLOGIA": "68",
-            "COD_TIPOLOGIA": "3",
-            "NOMBRE_TIPOLOGIA": "Atracciones Gratuitas",
-            "CODIGO_PRESTADOR": "209",
-            "COD_ZONA": "4",
+            "CODIGO": "209",
             "NOMBRE": "HOLIDAY INN EXPRESS HOTEL",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 94 11 A 12",
@@ -1470,15 +1050,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 150.001 y $ 350.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "68",
-            "CODIGO_SUBTIPOLOGIA": "68",
-            "COD_TIPOLOGIA": "3",
-            "NOMBRE_TIPOLOGIA": "Atracciones Gratuitas",
-            "CODIGO_PRESTADOR": "210",
-            "COD_ZONA": "13",
+            "CODIGO": "210",
             "NOMBRE": "HOTEL EMPORIUM",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 33 25 A 04",
@@ -1488,15 +1063,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "68",
-            "CODIGO_SUBTIPOLOGIA": "68",
-            "COD_TIPOLOGIA": "3",
-            "NOMBRE_TIPOLOGIA": "Atracciones Gratuitas",
-            "CODIGO_PRESTADOR": "211",
-            "COD_ZONA": "6",
+            "CODIGO": "211",
             "NOMBRE": "CROWNE PLAZA SUITES TEQUENDAMA BOGOT\u00c1 (SUITES TEQUENDAMA)",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 10 27 51 INT 150",
@@ -1506,15 +1076,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "68",
-            "CODIGO_SUBTIPOLOGIA": "68",
-            "COD_TIPOLOGIA": "3",
-            "NOMBRE_TIPOLOGIA": "Atracciones Gratuitas",
-            "CODIGO_PRESTADOR": "212",
-            "COD_ZONA": "1",
+            "CODIGO": "212",
             "NOMBRE": "HOTEL CASA GALERIA",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 2 12 B 62",
@@ -1524,15 +1089,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 150.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "68",
-            "CODIGO_SUBTIPOLOGIA": "68",
-            "COD_TIPOLOGIA": "3",
-            "NOMBRE_TIPOLOGIA": "Atracciones Gratuitas",
-            "CODIGO_PRESTADOR": "213",
-            "COD_ZONA": "1",
+            "CODIGO": "213",
             "NOMBRE": "HOTEL CASA DECO",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 12 C 2 36",
@@ -1542,15 +1102,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 150.001 y $ 350.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "68",
-            "CODIGO_SUBTIPOLOGIA": "68",
-            "COD_TIPOLOGIA": "3",
-            "NOMBRE_TIPOLOGIA": "Atracciones Gratuitas",
-            "CODIGO_PRESTADOR": "214",
-            "COD_ZONA": "8",
+            "CODIGO": "214",
             "NOMBRE": "HOTEL MARRIOT",
             "DESCRIPCION": "NA",
             "DIRECCION": "AC 26 69 B 53",
@@ -1560,15 +1115,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "M\u00e1s de $ 350.001",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "68",
-            "CODIGO_SUBTIPOLOGIA": "68",
-            "COD_TIPOLOGIA": "3",
-            "NOMBRE_TIPOLOGIA": "Atracciones Gratuitas",
-            "CODIGO_PRESTADOR": "215",
-            "COD_ZONA": "13",
+            "CODIGO": "215",
             "NOMBRE": "SUITES 109",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 109 A 17 52",
@@ -1578,15 +1128,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "M\u00e1s de $ 150.001",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "68",
-            "CODIGO_SUBTIPOLOGIA": "68",
-            "COD_TIPOLOGIA": "3",
-            "NOMBRE_TIPOLOGIA": "Atracciones Gratuitas",
-            "CODIGO_PRESTADOR": "216",
-            "COD_ZONA": "13",
+            "CODIGO": "216",
             "NOMBRE": "HOTEL NORMANDIA (APARTASUITENORMANDIA)",
             "DESCRIPCION": "NA",
             "DIRECCION": "AV BOYAC\u00c1 51 08",
@@ -1596,15 +1141,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "68",
-            "CODIGO_SUBTIPOLOGIA": "68",
-            "COD_TIPOLOGIA": "3",
-            "NOMBRE_TIPOLOGIA": "Atracciones Gratuitas",
-            "CODIGO_PRESTADOR": "217",
-            "COD_ZONA": "4",
+            "CODIGO": "217",
             "NOMBRE": "ZUETANA MALIBU",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 119 50 15",
@@ -1614,15 +1154,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "68",
-            "CODIGO_SUBTIPOLOGIA": "68",
-            "COD_TIPOLOGIA": "3",
-            "NOMBRE_TIPOLOGIA": "Atracciones Gratuitas",
-            "CODIGO_PRESTADOR": "218",
-            "COD_ZONA": "11",
+            "CODIGO": "218",
             "NOMBRE": "APARTAESTUDIOS KAFIR",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 25 B 36 28",
@@ -1632,15 +1167,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 150.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "68",
-            "CODIGO_SUBTIPOLOGIA": "68",
-            "COD_TIPOLOGIA": "3",
-            "NOMBRE_TIPOLOGIA": "Atracciones Gratuitas",
-            "CODIGO_PRESTADOR": "219",
-            "COD_ZONA": "13",
+            "CODIGO": "219",
             "NOMBRE": "HOTEL BOGOT\u00c1 VIRREY",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 15 87 06",
@@ -1650,15 +1180,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 150.001 y $ 350.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "68",
-            "CODIGO_SUBTIPOLOGIA": "68",
-            "COD_TIPOLOGIA": "3",
-            "NOMBRE_TIPOLOGIA": "Atracciones Gratuitas",
-            "CODIGO_PRESTADOR": "220",
-            "COD_ZONA": "11",
+            "CODIGO": "220",
             "NOMBRE": "HOTEL LAGUNA 24",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 24 B 44 A 59",
@@ -1668,15 +1193,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "68",
-            "CODIGO_SUBTIPOLOGIA": "68",
-            "COD_TIPOLOGIA": "3",
-            "NOMBRE_TIPOLOGIA": "Atracciones Gratuitas",
-            "CODIGO_PRESTADOR": "221",
-            "COD_ZONA": "13",
+            "CODIGO": "221",
             "NOMBRE": "HOTEL MS OCEANIA",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 13 24 A 48",
@@ -1686,15 +1206,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "68",
-            "CODIGO_SUBTIPOLOGIA": "68",
-            "COD_TIPOLOGIA": "3",
-            "NOMBRE_TIPOLOGIA": "Atracciones Gratuitas",
-            "CODIGO_PRESTADOR": "222",
-            "COD_ZONA": "13",
+            "CODIGO": "222",
             "NOMBRE": "CITE HOTEL",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 15 88 10",
@@ -1704,15 +1219,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "M\u00e1s de $ 350.001",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "68",
-            "CODIGO_SUBTIPOLOGIA": "68",
-            "COD_TIPOLOGIA": "3",
-            "NOMBRE_TIPOLOGIA": "Atracciones Gratuitas",
-            "CODIGO_PRESTADOR": "223",
-            "COD_ZONA": "13",
+            "CODIGO": "223",
             "NOMBRE": "CASA AURA MAR\u00cdA",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 39 25 81",
@@ -1722,36 +1232,12 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
-        }
-    ],
-     "35": [
-        {
-            "CODIGO": "29",
-            "CODIGO_SUBTIPOLOGIA": "29",
-            "COD_TIPOLOGIA": "16",
-            "NOMBRE_TIPOLOGIA": "Restaurantes",
-            "CODIGO_PRESTADOR": "2",
-            "COD_ZONA": "13",
-            "NOMBRE": "Santafereño",
-            "DESCRIPCION": "NA",
-            "DIRECCION": "CL 68 17 28",
-            "TELEFONO": "Tel1:6061236   Tel2:2357329   Tel3:3144336865   Fax:3132860205",
-            "CORREO": "angelinav68@hotmail.com",
-            "URL": "NA",
-            "UBICACION": null,
-            "PRECIO_PROMEDIO": "Menos de $ 60.000",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         }
     ],
     "81": [
         {
-            "CODIGO": "81",
-            "CODIGO_SUBTIPOLOGIA": "81",
-            "COD_TIPOLOGIA": "41",
-            "NOMBRE_TIPOLOGIA": "PRUEBA",
-            "CODIGO_PRESTADOR": "1",
-            "COD_ZONA": "4",
+            "CODIGO": "1",
             "NOMBRE": "HOSPEDAJE CASA ARANA",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 66 12 06",
@@ -1761,15 +1247,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "81",
-            "CODIGO_SUBTIPOLOGIA": "81",
-            "COD_TIPOLOGIA": "41",
-            "NOMBRE_TIPOLOGIA": "PRUEBA",
-            "CODIGO_PRESTADOR": "2",
-            "COD_ZONA": "13",
+            "CODIGO": "2",
             "NOMBRE": "HOTEL CANDILEJAS",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 68 17 28",
@@ -1779,15 +1260,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "81",
-            "CODIGO_SUBTIPOLOGIA": "81",
-            "COD_TIPOLOGIA": "41",
-            "NOMBRE_TIPOLOGIA": "PRUEBA",
-            "CODIGO_PRESTADOR": "3",
-            "COD_ZONA": "13",
+            "CODIGO": "3",
             "NOMBRE": "HOTEL BOYAC\u00c1 LA 24",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 24 68 35",
@@ -1797,15 +1273,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "81",
-            "CODIGO_SUBTIPOLOGIA": "81",
-            "COD_TIPOLOGIA": "41",
-            "NOMBRE_TIPOLOGIA": "PRUEBA",
-            "CODIGO_PRESTADOR": "4",
-            "COD_ZONA": "1",
+            "CODIGO": "4",
             "NOMBRE": "APARTAHOTEL LAGOS DEL NORTE",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 23 67 20",
@@ -1815,15 +1286,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "81",
-            "CODIGO_SUBTIPOLOGIA": "81",
-            "COD_TIPOLOGIA": "41",
-            "NOMBRE_TIPOLOGIA": "PRUEBA",
-            "CODIGO_PRESTADOR": "5",
-            "COD_ZONA": "13",
+            "CODIGO": "5",
             "NOMBRE": "HOSTAL MONSERRAT",
             "DESCRIPCION": "NA",
             "DIRECCION": "KR 24 82 43",
@@ -1833,15 +1299,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "81",
-            "CODIGO_SUBTIPOLOGIA": "81",
-            "COD_TIPOLOGIA": "41",
-            "NOMBRE_TIPOLOGIA": "PRUEBA",
-            "CODIGO_PRESTADOR": "7",
-            "COD_ZONA": "13",
+            "CODIGO": "7",
             "NOMBRE": "HOTEL LORD",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 63 14 62",
@@ -1851,15 +1312,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "81",
-            "CODIGO_SUBTIPOLOGIA": "81",
-            "COD_TIPOLOGIA": "41",
-            "NOMBRE_TIPOLOGIA": "PRUEBA",
-            "CODIGO_PRESTADOR": "8",
-            "COD_ZONA": "13",
+            "CODIGO": "8",
             "NOMBRE": "SUITE B\u00c1SICAS INN - SUITES EJECUTIVAS ECON\u00d3MICAS",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 63 D 22 44",
@@ -1869,15 +1325,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "81",
-            "CODIGO_SUBTIPOLOGIA": "81",
-            "COD_TIPOLOGIA": "41",
-            "NOMBRE_TIPOLOGIA": "PRUEBA",
-            "CODIGO_PRESTADOR": "9",
-            "COD_ZONA": "13",
+            "CODIGO": "9",
             "NOMBRE": "SUITTES INN TUR\u00cdSTICAS CALLE 63",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 63 28 62",
@@ -1887,15 +1338,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "81",
-            "CODIGO_SUBTIPOLOGIA": "81",
-            "COD_TIPOLOGIA": "41",
-            "NOMBRE_TIPOLOGIA": "PRUEBA",
-            "CODIGO_PRESTADOR": "10",
-            "COD_ZONA": "4",
+            "CODIGO": "10",
             "NOMBRE": "APARTAMENTOS CEDROS 63 INN  - APARTAMENTO LOS CEDROS",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 63 C 21 46",
@@ -1905,15 +1351,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "81",
-            "CODIGO_SUBTIPOLOGIA": "81",
-            "COD_TIPOLOGIA": "41",
-            "NOMBRE_TIPOLOGIA": "PRUEBA",
-            "CODIGO_PRESTADOR": "11",
-            "COD_ZONA": "13",
+            "CODIGO": "11",
             "NOMBRE": "SUITES INN ECON\u00d3MICAS CALLE 63",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 63 B 21 30",
@@ -1923,15 +1364,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "81",
-            "CODIGO_SUBTIPOLOGIA": "81",
-            "COD_TIPOLOGIA": "41",
-            "NOMBRE_TIPOLOGIA": "PRUEBA",
-            "CODIGO_PRESTADOR": "12",
-            "COD_ZONA": "13",
+            "CODIGO": "12",
             "NOMBRE": "HOTEL 63 INN EJECUTIVO",
             "DESCRIPCION": "NA",
             "DIRECCION": "CL 63 D 21 26",
@@ -1941,15 +1377,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "81",
-            "CODIGO_SUBTIPOLOGIA": "81",
-            "COD_TIPOLOGIA": "41",
-            "NOMBRE_TIPOLOGIA": "PRUEBA",
-            "CODIGO_PRESTADOR": "13",
-            "COD_ZONA": "13",
+            "CODIGO": "13",
             "NOMBRE": "HOTEL ELEGANT SUIT NORMANDIA",
             "DESCRIPCION": "NA",
             "DIRECCION": "AV BOYAC\u00c1 51 62",
@@ -1959,15 +1390,10 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Entre $ 60.001 y $ 150.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         },
         {
-            "CODIGO": "81",
-            "CODIGO_SUBTIPOLOGIA": "81",
-            "COD_TIPOLOGIA": "41",
-            "NOMBRE_TIPOLOGIA": "PRUEBA",
-            "CODIGO_PRESTADOR": "14",
-            "COD_ZONA": "13",
+            "CODIGO": "14",
             "NOMBRE": "HOTEL DEL PUENTE BOGOT\u00c1",
             "DESCRIPCION": "NA",
             "DIRECCION": "AV BOYAC\u00c1 48 A 04\/02",
@@ -1977,7 +1403,7 @@
             "UBICACION": null,
             "PRECIO_PROMEDIO": "Menos de $ 60.000",
             "HORARIO": "NA",
-            "IMAGEN": "https:\/\/raw.githubusercontent.com\/divisiondeariza\/IDT_data\/master\/idt\/imagenes\/iconoTipologia1.png"
+            "IMAGEN": "https:\/\/raw.githubusercontent.com\/castsab\/JsonIDT\/master\/imagenes\/museo_01.png"
         }
     ]
 }
