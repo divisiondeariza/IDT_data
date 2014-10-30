@@ -521,6 +521,17 @@
       "COD_TIPOLOGIA": "41"
     }
   ],
+   "42": [
+    {
+      "COD_CLASIFICACION": "4",
+      "CODIGO": "83",
+      "NOMBRE": "Ejemplo",
+      "IMAGEN": null,
+      "DESCRIPCION": "ASDFASDFA",
+      "CONTENIDO": "",
+      "COD_TIPOLOGIA": "41"
+    }
+  ],
   "21": [
     {
       "COD_CLASIFICACION": "5",
